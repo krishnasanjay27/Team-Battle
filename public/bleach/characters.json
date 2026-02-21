@@ -1,0 +1,302 @@
+[
+    {
+        "id": 0,
+        "name": "Ichigo Kurosaki",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 1,
+        "name": "Rukia Kuchiki",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 2,
+        "name": "Orihime Inoue",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 3,
+        "name": "Uryu Ishida",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 4,
+        "name": "Yasutora Sado",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 5,
+        "name": "Renji Abarai",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 6,
+        "name": "Kisuke Urahara",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 7,
+        "name": "Yoruichi Shihouin",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 8,
+        "name": "Byakuya Kuchiki",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 9,
+        "name": "Kenpachi Zaraki",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 10,
+        "name": "Toshiro Hitsugaya",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 11,
+        "name": "Rangiku Matsumoto",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 12,
+        "name": "Sosuke Aizen",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 13,
+        "name": "Gin Ichimaru",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 14,
+        "name": "Ulquiorra Cifer",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 15,
+        "name": "Grimmjow Jaegerjaquez",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 16,
+        "name": "Nelliel Tu Odelschwanck",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 17,
+        "name": "Mayuri Kurotsuchi",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 18,
+        "name": "Shunsui Kyoraku",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 19,
+        "name": "Jushiro Ukitake",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 20,
+        "name": "Retsu Unohana",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 21,
+        "name": "Sajin Komamura",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 22,
+        "name": "Izuru Kira",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 23,
+        "name": "Ikkaku Madarame",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 24,
+        "name": "Yachiru Kusajishi",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 25,
+        "name": "Kaname Tosen",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 26,
+        "name": "Coyote Starrk",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 27,
+        "name": "Tier Harribel",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 28,
+        "name": "Ichimaru Ginjo",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 29,
+        "name": "Riruka Dokugamine",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 30,
+        "name": "Shinji Hirako",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 31,
+        "name": "Hiyori Sarugaki",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 32,
+        "name": "Love Aikawa",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 33,
+        "name": "Rose Otoribashi",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 34,
+        "name": "Kensei Muguruma",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 35,
+        "name": "Mashiro Kuna",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 36,
+        "name": "Bambietta Basterbine",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 37,
+        "name": "Askin Nakk Le Vaar",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 38,
+        "name": "Jugram Haschwalth",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 39,
+        "name": "Bazz-B",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 40,
+        "name": "Yhwach",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 41,
+        "name": "Gerard Valkyrie",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 42,
+        "name": "Lille Barro",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 43,
+        "name": "Nemu Kurotsuchi",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 44,
+        "name": "Isane Kotetsu",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 45,
+        "name": "Kukaku Shiba",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 46,
+        "name": "Ganju Shiba",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 47,
+        "name": "Kaien Shiba",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 48,
+        "name": "Tatsuki Arisawa",
+        "image": "",
+        "used": false
+    },
+    {
+        "id": 49,
+        "name": "Keigo Asano",
+        "image": "",
+        "used": false
+    }
+]
