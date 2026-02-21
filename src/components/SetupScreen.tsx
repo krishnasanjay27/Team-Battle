@@ -6,7 +6,7 @@ import { useRouter } from 'next/navigation';
 import { useGameStore } from '@/store/gameStore';
 import { Character } from '@/lib/types';
 
-type AnimeChoice = 'naruto' | 'bleach';
+type SetupStep = 'anime' | 'players';
 
 const ANIME_OPTIONS: {
     id: AnimeChoice;
@@ -18,6 +18,7 @@ const ANIME_OPTIONS: {
     gradient: string;
     bgPattern: string;
     logo: string;
+    folder: string;   // actual public folder name (may have spaces)
 }[] = [
         {
             id: 'naruto',
@@ -29,6 +30,7 @@ const ANIME_OPTIONS: {
             gradient: 'linear-gradient(135deg, #f97316, #dc2626)',
             bgPattern: 'radial-gradient(ellipse at top left, rgba(249,115,22,0.12) 0%, transparent 70%)',
             logo: '/naruto-logo.jpg',
+            folder: 'naruto',
         },
         {
             id: 'bleach',
@@ -40,10 +42,35 @@ const ANIME_OPTIONS: {
             gradient: 'linear-gradient(135deg, #1d4ed8, #60a5fa)',
             bgPattern: 'radial-gradient(ellipse at bottom right, rgba(96,165,250,0.12) 0%, transparent 70%)',
             logo: '/bleach-logo.jpg',
+            folder: 'bleach',
+        },
+        {
+            id: 'demon slayer',
+            name: 'DEMON SLAYER',
+            subtitle: 'Demon Slayer Corps',
+            tagline: 'Total Concentration! 🔥',
+            color: '#f43f5e',
+            glow: 'rgba(244,63,94,0.55)',
+            gradient: 'linear-gradient(135deg, #be123c, #f43f5e)',
+            bgPattern: 'radial-gradient(ellipse at top right, rgba(244,63,94,0.12) 0%, transparent 70%)',
+            logo: '/DemonSlayer-logo.jpg',
+            folder: 'demon slayer',
+        },
+        {
+            id: 'Jujutsu Kaisen',
+            name: 'JUJUTSU KAISEN',
+            subtitle: 'Tokyo Jujutsu High',
+            tagline: 'Cursed Technique! ⚪',
+            color: '#a855f7',
+            glow: 'rgba(168,85,247,0.55)',
+            gradient: 'linear-gradient(135deg, #7c3aed, #a855f7)',
+            bgPattern: 'radial-gradient(ellipse at bottom left, rgba(168,85,247,0.12) 0%, transparent 70%)',
+            logo: '/JUJUTSU KAISEN-logo.jpg',
+            folder: 'Jujutsu Kaisen',
         },
     ];
 
-type SetupStep = 'anime' | 'players';
+type AnimeChoice = string;
 
 export default function SetupScreen() {
     const router = useRouter();
@@ -57,17 +84,19 @@ export default function SetupScreen() {
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState('');
 
-    const loadCharacters = async (anime: AnimeChoice) => {
+    const loadCharacters = async (animeId: AnimeChoice) => {
         setLoading(true);
         setError('');
         try {
-            const res = await fetch(`/${anime}/characters.json`);
+            const option = ANIME_OPTIONS.find((a) => a.id === animeId)!;
+            const url = `/${encodeURIComponent(option.folder)}/characters.json`;
+            const res = await fetch(url);
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
             const data: Character[] = await res.json();
             setCharacters(data);
         } catch {
             setError(
-                `Could not load ${anime} characters. Run:\n  py extract_dataset.py --anime ${anime} --parquet <file>.parquet`
+                `Could not load ${animeId} characters. Run:\n  py extract_dataset.py --anime ${animeId} --parquet <file>.parquet`
             );
         } finally {
             setLoading(false);
@@ -183,20 +212,48 @@ export default function SetupScreen() {
                                         (e.currentTarget as HTMLElement).style.boxShadow = `0 8px 32px rgba(0,0,0,0.5)`;
                                     }}
                                 >
-                                    {/* Full-bleed logo image */}
-                                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                                    <img
-                                        src={a.logo}
-                                        alt={a.name}
-                                        style={{
+                                    {/* Full-bleed logo image OR gradient background */}
+                                    {a.logo ? (
+                                        <>
+                                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                                            <img
+                                                src={a.logo}
+                                                alt={a.name}
+                                                style={{
+                                                    position: 'absolute',
+                                                    inset: 0,
+                                                    width: '100%',
+                                                    height: '100%',
+                                                    objectFit: 'cover',
+                                                    objectPosition: 'center',
+                                                }}
+                                            />
+                                        </>
+                                    ) : (
+                                        /* Gradient background with big name for animes without a logo yet */
+                                        <div style={{
                                             position: 'absolute',
                                             inset: 0,
-                                            width: '100%',
-                                            height: '100%',
-                                            objectFit: 'cover',
-                                            objectPosition: 'center',
-                                        }}
-                                    />
+                                            background: a.gradient,
+                                            display: 'flex',
+                                            alignItems: 'center',
+                                            justifyContent: 'center',
+                                            padding: '16px',
+                                        }}>
+                                            <span style={{
+                                                fontFamily: 'Cinzel, serif',
+                                                fontWeight: '900',
+                                                fontSize: '22px',
+                                                color: 'rgba(255,255,255,0.92)',
+                                                textAlign: 'center',
+                                                lineHeight: '1.3',
+                                                textShadow: '0 2px 12px rgba(0,0,0,0.5)',
+                                                letterSpacing: '0.06em',
+                                            }}>
+                                                {a.name}
+                                            </span>
+                                        </div>
+                                    )}
 
                                     {/* Subtle vignette to keep logo visible but add depth */}
                                     <div style={{

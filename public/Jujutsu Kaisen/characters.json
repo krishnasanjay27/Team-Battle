@@ -1,0 +1,362 @@
+[
+  {
+    "id": 0,
+    "name": "Akari Nitta",
+    "image": "/Jujutsu Kaisen/characters/AkariNittaP.webp",
+    "used": false
+  },
+  {
+    "id": 1,
+    "name": "Aoi Todo",
+    "image": "/Jujutsu Kaisen/characters/AoiP.webp",
+    "used": false
+  },
+  {
+    "id": 2,
+    "name": "Atsuya Kusakabe",
+    "image": "/Jujutsu Kaisen/characters/AtsuyaKusakabeP.webp",
+    "used": false
+  },
+  {
+    "id": 3,
+    "name": "Cursed Rika Orimoto",
+    "image": "/Jujutsu Kaisen/characters/CursedRikaOrimotoP.webp",
+    "used": false
+  },
+  {
+    "id": 4,
+    "name": "Dagon",
+    "image": "/Jujutsu Kaisen/characters/DagonP.webp",
+    "used": false
+  },
+  {
+    "id": 5,
+    "name": "Finger Bearer",
+    "image": "/Jujutsu Kaisen/characters/FingerBearerP.webp",
+    "used": false
+  },
+  {
+    "id": 6,
+    "name": "Fumihiko Takaba",
+    "image": "/Jujutsu Kaisen/characters/FumihikoTakabaP.webp",
+    "used": false
+  },
+  {
+    "id": 7,
+    "name": "Satoru Gojo",
+    "image": "/Jujutsu Kaisen/characters/GojoP.webp",
+    "used": false
+  },
+  {
+    "id": 8,
+    "name": "Hajime Kashimo",
+    "image": "/Jujutsu Kaisen/characters/HajimeKashimoP.webp",
+    "used": false
+  },
+  {
+    "id": 9,
+    "name": "Hana Kurusu",
+    "image": "/Jujutsu Kaisen/characters/HanaKurusuP.webp",
+    "used": false
+  },
+  {
+    "id": 10,
+    "name": "Hanami",
+    "image": "/Jujutsu Kaisen/characters/HanamiP.webp",
+    "used": false
+  },
+  {
+    "id": 11,
+    "name": "Hiromi Higuruma",
+    "image": "/Jujutsu Kaisen/characters/HiromiHigurumaP.webp",
+    "used": false
+  },
+  {
+    "id": 12,
+    "name": "Kiyotaka Ijichi",
+    "image": "/Jujutsu Kaisen/characters/IjichiP.webp",
+    "used": false
+  },
+  {
+    "id": 13,
+    "name": "Inventory Curse",
+    "image": "/Jujutsu Kaisen/characters/InventoryCurseP.webp",
+    "used": false
+  },
+  {
+    "id": 14,
+    "name": "Jin Itadori",
+    "image": "/Jujutsu Kaisen/characters/JinItadoriP.webp",
+    "used": false
+  },
+  {
+    "id": 15,
+    "name": "Jinichi Zenin",
+    "image": "/Jujutsu Kaisen/characters/JinichiZeninP.webp",
+    "used": false
+  },
+  {
+    "id": 16,
+    "name": "Jogo",
+    "image": "/Jujutsu Kaisen/characters/JogoP.webp",
+    "used": false
+  },
+  {
+    "id": 17,
+    "name": "Junpei Yoshino",
+    "image": "/Jujutsu Kaisen/characters/JunpeiYoshinoP.webp",
+    "used": false
+  },
+  {
+    "id": 18,
+    "name": "Kasumi Miwa",
+    "image": "/Jujutsu Kaisen/characters/KasumiMiwaP.webp",
+    "used": false
+  },
+  {
+    "id": 19,
+    "name": "Kenjaku",
+    "image": "/Jujutsu Kaisen/characters/KenjakuP.webp",
+    "used": false
+  },
+  {
+    "id": 20,
+    "name": "Kinji Hakari",
+    "image": "/Jujutsu Kaisen/characters/KinjiHakariP.webp",
+    "used": false
+  },
+  {
+    "id": 21,
+    "name": "Kirara Hoshi",
+    "image": "/Jujutsu Kaisen/characters/KiraraHoshiP.webp",
+    "used": false
+  },
+  {
+    "id": 22,
+    "name": "Kokichi Muta",
+    "image": "/Jujutsu Kaisen/characters/KokichiP.webp",
+    "used": false
+  },
+  {
+    "id": 23,
+    "name": "Mahito",
+    "image": "/Jujutsu Kaisen/characters/MahitoP.webp",
+    "used": false
+  },
+  {
+    "id": 24,
+    "name": "Mai Zenin",
+    "image": "/Jujutsu Kaisen/characters/MaiP.webp",
+    "used": false
+  },
+  {
+    "id": 25,
+    "name": "Maki Zenin",
+    "image": "/Jujutsu Kaisen/characters/MakiP_29.webp",
+    "used": false
+  },
+  {
+    "id": 26,
+    "name": "Masamichi Yaga",
+    "image": "/Jujutsu Kaisen/characters/MasamichiP.webp",
+    "used": false
+  },
+  {
+    "id": 27,
+    "name": "Megumi Fushiguro",
+    "image": "/Jujutsu Kaisen/characters/MegumiP.webp",
+    "used": false
+  },
+  {
+    "id": 28,
+    "name": "Mei Mei",
+    "image": "/Jujutsu Kaisen/characters/MeiMeiP.webp",
+    "used": false
+  },
+  {
+    "id": 29,
+    "name": "Miguel",
+    "image": "/Jujutsu Kaisen/characters/MiguelP.webp",
+    "used": false
+  },
+  {
+    "id": 30,
+    "name": "Momo Nishimiya",
+    "image": "/Jujutsu Kaisen/characters/MomoNishimiyaP.webp",
+    "used": false
+  },
+  {
+    "id": 31,
+    "name": "Kento Nanami",
+    "image": "/Jujutsu Kaisen/characters/NanamiP.webp",
+    "used": false
+  },
+  {
+    "id": 32,
+    "name": "Naobito Zenin",
+    "image": "/Jujutsu Kaisen/characters/NaobitoZeninP.webp",
+    "used": false
+  },
+  {
+    "id": 33,
+    "name": "Naoya Zenin",
+    "image": "/Jujutsu Kaisen/characters/NaoyaZeninP_29.webp",
+    "used": false
+  },
+  {
+    "id": 34,
+    "name": "Nobara Kugisaki",
+    "image": "/Jujutsu Kaisen/characters/NobaraP.webp",
+    "used": false
+  },
+  {
+    "id": 35,
+    "name": "Noritoshi Kamo",
+    "image": "/Jujutsu Kaisen/characters/NoritoshiKamoP.webp",
+    "used": false
+  },
+  {
+    "id": 36,
+    "name": "Ogi Zenin",
+    "image": "/Jujutsu Kaisen/characters/OgiZeninP.webp",
+    "used": false
+  },
+  {
+    "id": 37,
+    "name": "Panda",
+    "image": "/Jujutsu Kaisen/characters/PandaP.webp",
+    "used": false
+  },
+  {
+    "id": 38,
+    "name": "Ranta Zenin",
+    "image": "/Jujutsu Kaisen/characters/RantaZeninP.webp",
+    "used": false
+  },
+  {
+    "id": 39,
+    "name": "Reggie Star",
+    "image": "/Jujutsu Kaisen/characters/ReggieStarP.webp",
+    "used": false
+  },
+  {
+    "id": 40,
+    "name": "Rika Orimoto",
+    "image": "/Jujutsu Kaisen/characters/RikaP.webp",
+    "used": false
+  },
+  {
+    "id": 41,
+    "name": "Riko Amanai",
+    "image": "/Jujutsu Kaisen/characters/RikoAmanaiP.webp",
+    "used": false
+  },
+  {
+    "id": 42,
+    "name": "Ryu Ishigori",
+    "image": "/Jujutsu Kaisen/characters/RyuIshigoriP.webp",
+    "used": false
+  },
+  {
+    "id": 43,
+    "name": "Shoko Ieri",
+    "image": "/Jujutsu Kaisen/characters/ShokoIeriP.webp",
+    "used": false
+  },
+  {
+    "id": 44,
+    "name": "Suguru Geto",
+    "image": "/Jujutsu Kaisen/characters/SuguruGetoP.webp",
+    "used": false
+  },
+  {
+    "id": 45,
+    "name": "Ryomen Sukuna",
+    "image": "/Jujutsu Kaisen/characters/SukunaP.webp",
+    "used": false
+  },
+  {
+    "id": 46,
+    "name": "Takada-chan",
+    "image": "/Jujutsu Kaisen/characters/Takada-chanP.webp",
+    "used": false
+  },
+  {
+    "id": 47,
+    "name": "Takako Uro",
+    "image": "/Jujutsu Kaisen/characters/TakakoUroP.webp",
+    "used": false
+  },
+  {
+    "id": 48,
+    "name": "Takuma Ino",
+    "image": "/Jujutsu Kaisen/characters/TakumaInoP.webp",
+    "used": false
+  },
+  {
+    "id": 49,
+    "name": "Tamamo-no-Mae",
+    "image": "/Jujutsu Kaisen/characters/Tamamo-no-MaeP.webp",
+    "used": false
+  },
+  {
+    "id": 50,
+    "name": "Master Tengen",
+    "image": "/Jujutsu Kaisen/characters/TengenP.webp",
+    "used": false
+  },
+  {
+    "id": 51,
+    "name": "Toge Inumaki",
+    "image": "/Jujutsu Kaisen/characters/TogeP_29.webp",
+    "used": false
+  },
+  {
+    "id": 52,
+    "name": "Toji Fushiguro",
+    "image": "/Jujutsu Kaisen/characters/TojiFushiguroP.webp",
+    "used": false
+  },
+  {
+    "id": 53,
+    "name": "Uraume",
+    "image": "/Jujutsu Kaisen/characters/UraumeP.webp",
+    "used": false
+  },
+  {
+    "id": 54,
+    "name": "Utahime Iori",
+    "image": "/Jujutsu Kaisen/characters/UtahimeP.webp",
+    "used": false
+  },
+  {
+    "id": 55,
+    "name": "Yorozu",
+    "image": "/Jujutsu Kaisen/characters/YorozuP.webp",
+    "used": false
+  },
+  {
+    "id": 56,
+    "name": "Yoshinobu Gakuganji",
+    "image": "/Jujutsu Kaisen/characters/YoshinobuP.webp",
+    "used": false
+  },
+  {
+    "id": 57,
+    "name": "Yuji Itadori",
+    "image": "/Jujutsu Kaisen/characters/YujiP.webp",
+    "used": false
+  },
+  {
+    "id": 58,
+    "name": "Yuki Tsukumo",
+    "image": "/Jujutsu Kaisen/characters/YukiTsukumoP.webp",
+    "used": false
+  },
+  {
+    "id": 59,
+    "name": "Yuta Okkotsu",
+    "image": "/Jujutsu Kaisen/characters/YutaOkkotsuP_29.webp",
+    "used": false
+  }
+]

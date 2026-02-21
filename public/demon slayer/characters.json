@@ -1,0 +1,374 @@
+[
+  {
+    "id": 0,
+    "name": "Akaza",
+    "image": "/demon slayer/characters/Akaza_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 1,
+    "name": "Amane Ubuyashiki",
+    "image": "/demon slayer/characters/Amane_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 2,
+    "name": "Aoi Kanzaki",
+    "image": "/demon slayer/characters/Aoi_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 3,
+    "name": "Asakusa Demon",
+    "image": "/demon slayer/characters/Asakusa_Demon_29.webp",
+    "used": false
+  },
+  {
+    "id": 4,
+    "name": "Chachamaru",
+    "image": "/demon slayer/characters/Chachamaru_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 5,
+    "name": "Daki",
+    "image": "/demon slayer/characters/Daki_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 6,
+    "name": "Doma",
+    "image": "/demon slayer/characters/Doma_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 7,
+    "name": "Father Spider Demon",
+    "image": "/demon slayer/characters/Father_Spider_Demon_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 8,
+    "name": "Genya Shinazugawa",
+    "image": "/demon slayer/characters/Genya_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 9,
+    "name": "Giyu Tomioka",
+    "image": "/demon slayer/characters/Giyu_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 10,
+    "name": "Gyokko",
+    "image": "/demon slayer/characters/Gyokko_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 11,
+    "name": "Gyomei Himejima",
+    "image": "/demon slayer/characters/Gyomei_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 12,
+    "name": "Gyutaro",
+    "image": "/demon slayer/characters/Gyutaro_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 13,
+    "name": "Hantengu",
+    "image": "/demon slayer/characters/Hantengu_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 14,
+    "name": "Hinaki Ubuyashiki",
+    "image": "/demon slayer/characters/Hinaki_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 15,
+    "name": "Hinatsuru",
+    "image": "/demon slayer/characters/Hinatsuru_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 16,
+    "name": "Hotaru Haganezuka",
+    "image": "/demon slayer/characters/Hotaru_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 17,
+    "name": "Kaigaku",
+    "image": "/demon slayer/characters/Human_Kaigaku_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 18,
+    "name": "Inosuke Hashibira",
+    "image": "/demon slayer/characters/Inosuke_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 19,
+    "name": "Jigoro Kuwajima",
+    "image": "/demon slayer/characters/Jigoro_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 20,
+    "name": "Kagaya Ubuyashiki",
+    "image": "/demon slayer/characters/Kagaya_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 21,
+    "name": "Kaigaku",
+    "image": "/demon slayer/characters/Kaigaku_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 22,
+    "name": "Kamanue",
+    "image": "/demon slayer/characters/Kamanue_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 23,
+    "name": "Kanae Kocho",
+    "image": "/demon slayer/characters/Kanae_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 24,
+    "name": "Kanao Tsuyuri",
+    "image": "/demon slayer/characters/Kanao_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 25,
+    "name": "Kiriya Ubuyashiki",
+    "image": "/demon slayer/characters/Kiriya_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 26,
+    "name": "Kiyo Terauchi",
+    "image": "/demon slayer/characters/Kiyo_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 27,
+    "name": "Kokushibo",
+    "image": "/demon slayer/characters/Kokushibo_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 28,
+    "name": "Kotetsu",
+    "image": "/demon slayer/characters/Kotetsu_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 29,
+    "name": "Kyojuro Rengoku",
+    "image": "/demon slayer/characters/Kyojuro_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 30,
+    "name": "Makio",
+    "image": "/demon slayer/characters/Makio_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 31,
+    "name": "Makomo",
+    "image": "/demon slayer/characters/Makomo_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 32,
+    "name": "Masao",
+    "image": "/demon slayer/characters/Masao_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 33,
+    "name": "Mitsuri Kanroji",
+    "image": "/demon slayer/characters/Mitsuri_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 34,
+    "name": "Mother Spider Demon",
+    "image": "/demon slayer/characters/Mother_Spider_Demon_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 35,
+    "name": "Muichiro Tokito",
+    "image": "/demon slayer/characters/Muichiro_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 36,
+    "name": "Murata",
+    "image": "/demon slayer/characters/Murata_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 37,
+    "name": "Muzan Kibutsuji",
+    "image": "/demon slayer/characters/Muzan_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 38,
+    "name": "Nakime",
+    "image": "/demon slayer/characters/Nakime_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 39,
+    "name": "Nezuko Kamado",
+    "image": "/demon slayer/characters/Nezuko_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 40,
+    "name": "Noguchi",
+    "image": "/demon slayer/characters/Noguchi_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 41,
+    "name": "Obanai Iguro",
+    "image": "/demon slayer/characters/Obanai_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 42,
+    "name": "Ozaki",
+    "image": "/demon slayer/characters/Ozaki_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 43,
+    "name": "Rui",
+    "image": "/demon slayer/characters/Rui_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 44,
+    "name": "Sabito",
+    "image": "/demon slayer/characters/Sabito_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 45,
+    "name": "Sakonji Urokodaki",
+    "image": "/demon slayer/characters/Sakonji_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 46,
+    "name": "Sanemi Shinazugawa",
+    "image": "/demon slayer/characters/Sanemi_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 47,
+    "name": "Shinjuro Rengoku",
+    "image": "/demon slayer/characters/Shinjuro_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 48,
+    "name": "Shinobu Kocho",
+    "image": "/demon slayer/characters/Shinobu_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 49,
+    "name": "Suma",
+    "image": "/demon slayer/characters/Suma_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 50,
+    "name": "Susamaru",
+    "image": "/demon slayer/characters/Susamaru_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 51,
+    "name": "Swamp Demon",
+    "image": "/demon slayer/characters/Swamp_Demon_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 52,
+    "name": "Tamayo",
+    "image": "/demon slayer/characters/Tamayo_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 53,
+    "name": "Tanjiro Kamado",
+    "image": "/demon slayer/characters/Tanjiro_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 54,
+    "name": "Tanjuro Kamado",
+    "image": "/demon slayer/characters/Tanjuro_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 55,
+    "name": "Temple Demon",
+    "image": "/demon slayer/characters/Temple_Demon_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 56,
+    "name": "Tengen Uzui",
+    "image": "/demon slayer/characters/Tengen_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 57,
+    "name": "Yahaba",
+    "image": "/demon slayer/characters/Yahaba_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 58,
+    "name": "Yoriichi Tsugikuni",
+    "image": "/demon slayer/characters/Yoriichi_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 59,
+    "name": "Yoshioka",
+    "image": "/demon slayer/characters/Yoshioka_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 60,
+    "name": "Yushiro",
+    "image": "/demon slayer/characters/Yushiro_Anime_Profile.webp",
+    "used": false
+  },
+  {
+    "id": 61,
+    "name": "Zenitsu Agatsuma",
+    "image": "/demon slayer/characters/Zenitsu_Anime_Profile.webp",
+    "used": false
+  }
+]
