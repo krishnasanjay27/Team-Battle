@@ -1,4 +1,4 @@
-export type GamePhase = 'setup' | 'playing' | 'round_summary' | 'summary';
+export type GamePhase = 'setup' | 'playing' | 'round_summary' | 'summary' | 'battle';
 
 export type RoleKey =
   | 'captain'
@@ -10,11 +10,22 @@ export type RoleKey =
   | 'support_2'
   | 'traitor';
 
+export interface CharacterStats {
+  Captain: number;
+  ViceCaptain: number;
+  Tank: number;
+  Healer: number;
+  Assassin: number;
+  Support: number;
+  Traitor: number;
+}
+
 export interface Character {
   id: number;
   name: string;
   image: string;
   used: boolean;
+  stats?: CharacterStats;
 }
 
 export interface Assignment {
@@ -27,6 +38,7 @@ export interface Player {
   id: number;
   name: string;
   skipUsed: boolean;
+  score: number;
   /** The player's team: role key → assigned character (or null) */
   team: Record<RoleKey, Character | null>;
 }

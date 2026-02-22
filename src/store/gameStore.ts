@@ -10,12 +10,20 @@ interface GameState {
     availableCharacters: Character[];
     drawnCharacter: Character | null;
 
+    // Battle phase state
+    battleRoleIndex: number;      // 0–7, current step in BATTLE_ROLES
+    battleComplete: boolean;       // true after all 8 roles scored
+
     setupGame: (names: string[], allChars: Character[]) => void;
     drawCard: () => void;
     assignRole: (roleKey: RoleKey) => void;
     useSkip: () => void;
     continueAfterRoundSummary: () => void;
     resetGame: () => void;
+
+    // Battle actions
+    startBattle: () => void;
+    submitRoleScore: (pointsPerPlayer: Record<number, number>) => void;
 }
 
 function shuffle<T>(arr: T[]): T[] {
@@ -45,11 +53,15 @@ export const useGameStore = create<GameState>((set, get) => ({
     availableCharacters: [],
     drawnCharacter: null,
 
+    battleRoleIndex: 0,
+    battleComplete: false,
+
     setupGame: (names, allChars) => {
         const players: Player[] = names.map((name, i) => ({
             id: i,
             name: name.trim() || `Player ${i + 1}`,
             skipUsed: false,
+            score: 0,
             team: emptyTeam(),
         }));
 
@@ -60,6 +72,8 @@ export const useGameStore = create<GameState>((set, get) => ({
             currentRound: 1,
             availableCharacters: shuffle(allChars),
             drawnCharacter: null,
+            battleRoleIndex: 0,
+            battleComplete: false,
         });
     },
 
@@ -124,6 +138,34 @@ export const useGameStore = create<GameState>((set, get) => ({
             currentRound: 1,
             availableCharacters: [],
             drawnCharacter: null,
+            battleRoleIndex: 0,
+            battleComplete: false,
+        });
+    },
+
+    // ── Battle phase ──────────────────────────────────────────────────────
+    startBattle: () => {
+        set({ phase: 'battle', battleRoleIndex: 0 });
+    },
+
+    submitRoleScore: (pointsPerPlayer) => {
+        const { players, battleRoleIndex } = get();
+        const TOTAL_BATTLE_ROLES = 8; // Traitor + Support1 + Support2 + Assassin + Healer + Tank + ViceCaptain + Captain
+
+        // Add earned points to each player's score
+        const updatedPlayers = players.map((p) => ({
+            ...p,
+            score: p.score + (pointsPerPlayer[p.id] ?? 0),
+        }));
+
+        const nextBattleIndex = battleRoleIndex + 1;
+        const allDone = nextBattleIndex >= TOTAL_BATTLE_ROLES;
+
+        set({
+            players: updatedPlayers,
+            battleRoleIndex: nextBattleIndex,
+            battleComplete: allDone,
+            phase: allDone ? 'summary' : 'battle',
         });
     },
 }));
