@@ -3,690 +3,1725 @@
         "id": 0,
         "name": "Soul King",
         "image": "/bleach/characters/615SoulKingCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 9,
+            "Healer": 8,
+            "Assassin": 9,
+            "Support": 10,
+            "Traitor": 9
+        }
     },
     {
         "id": 1,
         "name": "Mimihagi",
         "image": "/bleach/characters/616MimihagiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 9,
+            "Healer": 7,
+            "Assassin": 6,
+            "Support": 9,
+            "Traitor": 8
+        }
     },
     {
         "id": 2,
         "name": "Yūshirō Shihōin",
         "image": "/bleach/characters/657YūshirōCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 5,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 3,
         "name": "Sui-Feng",
         "image": "/bleach/characters/Cg494Pg2SuiFengCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 9,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 4,
         "name": "Tier Harribel",
         "image": "/bleach/characters/Ch339HarribelCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 7
+        }
     },
     {
         "id": 5,
         "name": "Yachiru Kusajishi",
         "image": "/bleach/characters/Ch464YachiruCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 6
+        }
     },
     {
         "id": 6,
         "name": "Kensei Muguruma",
         "image": "/bleach/characters/Ch494Pg3KenseiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 7,
         "name": "Rōjūrō Otoribashi",
         "image": "/bleach/characters/Ch494Pg3RoseCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 7,
+            "Traitor": 6
+        }
     },
     {
         "id": 8,
         "name": "Sentarō Kotsubaki",
         "image": "/bleach/characters/Ch494Pg7SentaroCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 4,
+            "Support": 5,
+            "Traitor": 4
+        }
     },
     {
         "id": 9,
         "name": "Izuru Kira",
         "image": "/bleach/characters/Ch494Pg9IzuruCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 10,
         "name": "Momo Hinamori",
         "image": "/bleach/characters/Ch505Pg7MomoCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 6,
+            "Tank": 4,
+            "Healer": 4,
+            "Assassin": 4,
+            "Support": 7,
+            "Traitor": 5
+        }
     },
     {
         "id": 11,
         "name": "Yhwach",
         "image": "/bleach/characters/Ch508Pg5YhwachCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 10,
+            "Healer": 7,
+            "Assassin": 10,
+            "Support": 8,
+            "Traitor": 9
+        }
     },
     {
         "id": 12,
         "name": "Shūhei Hisagi",
         "image": "/bleach/characters/Ch520.5HisagiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 13,
         "name": "Kenpachi Zaraki",
         "image": "/bleach/characters/Ch523Pg10ZarakiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 7,
+            "Tank": 10,
+            "Healer": 1,
+            "Assassin": 9,
+            "Support": 4,
+            "Traitor": 7
+        }
     },
     {
         "id": 14,
         "name": "Retsu Unohana",
         "image": "/bleach/characters/Ch523Pg14UnohanaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 10,
+            "Assassin": 9,
+            "Support": 9,
+            "Traitor": 9
+        }
     },
     {
         "id": 15,
         "name": "Isshin Kurosaki",
         "image": "/bleach/characters/Ch536Pg15IsshinCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
     },
     {
         "id": 16,
         "name": "Uryū Ishida",
         "image": "/bleach/characters/Ch537Pg16UryuCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 5,
+            "Healer": 4,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 17,
         "name": "Jugram Haschwalth",
         "image": "/bleach/characters/Ch547Pg13JugramCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 9,
+            "Tank": 8,
+            "Healer": 5,
+            "Assassin": 8,
+            "Support": 8,
+            "Traitor": 8
+        }
     },
     {
         "id": 18,
         "name": "Marechiyo Ōmaeda",
         "image": "/bleach/characters/Ch548Pg3OmaedaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 3,
+            "Support": 5,
+            "Traitor": 4
+        }
     },
     {
         "id": 19,
         "name": "Nanao Ise",
         "image": "/bleach/characters/Ch551Pg2NanaoCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 7,
+            "Tank": 5,
+            "Healer": 4,
+            "Assassin": 4,
+            "Support": 8,
+            "Traitor": 6
+        }
     },
     {
         "id": 20,
         "name": "Isane Kotetsu",
         "image": "/bleach/characters/Ch571Pg1IsaneCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 7,
+            "Tank": 5,
+            "Healer": 8,
+            "Assassin": 3,
+            "Support": 8,
+            "Traitor": 6
+        }
     },
     {
         "id": 21,
         "name": "Sōsuke Aizen",
         "image": "/bleach/characters/Ch682Pg12AizenCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 9,
+            "Healer": 6,
+            "Assassin": 10,
+            "Support": 9,
+            "Traitor": 9
+        }
     },
     {
         "id": 22,
         "name": "Byakuya Kuchiki",
         "image": "/bleach/characters/Ch686ByakuyaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 23,
         "name": "Apacci",
         "image": "/bleach/characters/Chap487Pg20ApacciCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
     },
     {
         "id": 24,
         "name": "Sung-Sun",
         "image": "/bleach/characters/Chap487Pg20SungSunCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 6,
+            "Traitor": 5
+        }
     },
     {
         "id": 25,
         "name": "Äs Nödt",
         "image": "/bleach/characters/Chap502Pg1NodtCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 9,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 26,
         "name": "White (Hollow Ichigo)",
         "image": "/bleach/characters/Chap531Pg6WhiteCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 7,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 10,
+            "Support": 5,
+            "Traitor": 7
+        }
     },
     {
         "id": 27,
         "name": "Lisa Yadōmaru",
         "image": "/bleach/characters/Ep123LisaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 28,
         "name": "Zangetsu",
         "image": "/bleach/characters/Ep123ZangetsuCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 29,
         "name": "Luppi Antenor",
         "image": "/bleach/characters/Ep139LuppiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
     },
     {
         "id": 30,
         "name": "Wonderweiss Margela",
         "image": "/bleach/characters/Ep143WonderweissCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 4,
+            "Tank": 8,
+            "Healer": 1,
+            "Assassin": 7,
+            "Support": 3,
+            "Traitor": 5
+        }
     },
     {
         "id": 31,
         "name": "Dordoni Alessandro Del Socaccio",
         "image": "/bleach/characters/Ep151DordoniCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
     },
     {
         "id": 32,
         "name": "Gin Ichimaru",
         "image": "/bleach/characters/Ep153GinCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 10,
+            "Support": 6,
+            "Traitor": 7
+        }
     },
     {
         "id": 33,
         "name": "Pesche Guatiche",
         "image": "/bleach/characters/Ep156PescheCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 4,
+            "Healer": 2,
+            "Assassin": 3,
+            "Support": 5,
+            "Traitor": 4
+        }
     },
     {
         "id": 34,
         "name": "Loly Aivirrne",
         "image": "/bleach/characters/Ep163LolyCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 4,
+            "Healer": 1,
+            "Assassin": 4,
+            "Support": 4,
+            "Traitor": 4
+        }
     },
     {
         "id": 35,
         "name": "Menoly Mallia",
         "image": "/bleach/characters/Ep163MenolyCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 4,
+            "Healer": 1,
+            "Assassin": 4,
+            "Support": 4,
+            "Traitor": 4
+        }
     },
     {
         "id": 36,
         "name": "Nnoitra Gilga",
         "image": "/bleach/characters/Ep190NnoitraCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 1,
+            "Assassin": 8,
+            "Support": 4,
+            "Traitor": 6
+        }
     },
     {
         "id": 37,
         "name": "Szayelaporro Granz",
         "image": "/bleach/characters/Ep190SzayelCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 7,
+            "Traitor": 6
+        }
     },
     {
         "id": 38,
         "name": "Dondochakka Bilstin",
         "image": "/bleach/characters/Ep194DondochakkaCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 3,
+            "ViceCaptain": 3,
+            "Tank": 5,
+            "Healer": 1,
+            "Assassin": 3,
+            "Support": 4,
+            "Traitor": 3
+        }
     },
     {
         "id": 39,
         "name": "Zommari Rureaux",
         "image": "/bleach/characters/Ep195ZommariCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
     },
     {
         "id": 40,
         "name": "Nemu Kurotsuchi",
         "image": "/bleach/characters/Ep200NemuCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 4,
+            "Assassin": 5,
+            "Support": 7,
+            "Traitor": 6
+        }
     },
     {
         "id": 41,
         "name": "Ginrei Kuchiki",
         "image": "/bleach/characters/Ep208GinreiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 7,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 42,
         "name": "Kaien Shiba",
         "image": "/bleach/characters/Ep208KaienCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 43,
         "name": "Kasaki",
         "image": "/bleach/characters/Ep209KasakiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 4,
+            "Healer": 2,
+            "Assassin": 4,
+            "Support": 4,
+            "Traitor": 4
+        }
     },
     {
         "id": 44,
         "name": "Chōjirō Sasakibe",
         "image": "/bleach/characters/Ep215ChojiroCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 8,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 7,
+            "Traitor": 6
+        }
     },
     {
         "id": 45,
         "name": "Sajin Komamura",
         "image": "/bleach/characters/Ep215KomamuraCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 7
+        }
     },
     {
         "id": 46,
         "name": "Charlotte Chuhlhourne",
         "image": "/bleach/characters/Ep217CharlotteCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 4,
+            "Support": 6,
+            "Traitor": 4
+        }
     },
     {
         "id": 47,
         "name": "Baraggan Louisenbairn",
         "image": "/bleach/characters/Ep221BaragganCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 10,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
     },
     {
         "id": 48,
         "name": "Ayon",
         "image": "/bleach/characters/Ep225AyonCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 9,
+            "Healer": 1,
+            "Assassin": 6,
+            "Support": 3,
+            "Traitor": 5
+        }
     },
     {
         "id": 49,
         "name": "Kiyone Kotetsu",
         "image": "/bleach/characters/Ep227KiyoneCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 6,
+            "Tank": 4,
+            "Healer": 6,
+            "Assassin": 3,
+            "Support": 7,
+            "Traitor": 5
+        }
     },
     {
         "id": 50,
         "name": "Jūshirō Ukitake",
         "image": "/bleach/characters/Ep227UkitakeCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 7,
+            "Assassin": 7,
+            "Support": 9,
+            "Traitor": 8
+        }
     },
     {
         "id": 51,
         "name": "Zangetsu (Inner Spirit)",
         "image": "/bleach/characters/Ep233ZangetsuCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 52,
         "name": "Oscar Joaquín de la Rosa",
         "image": "/bleach/characters/Ep249OscarCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 4,
+            "Healer": 2,
+            "Assassin": 3,
+            "Support": 4,
+            "Traitor": 4
+        }
     },
     {
         "id": 53,
         "name": "Katen Kyōkotsu",
         "image": "/bleach/characters/Ep265KatenKyokotsuCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 4,
+            "Assassin": 8,
+            "Support": 9,
+            "Traitor": 8
+        }
     },
     {
         "id": 54,
         "name": "Rudbornn Chelute",
         "image": "/bleach/characters/Ep267RudbornnCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
     },
     {
         "id": 55,
         "name": "Ulquiorra Cifer",
         "image": "/bleach/characters/Ep267UlquiorraCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 9,
+            "Support": 6,
+            "Traitor": 7
+        }
     },
     {
         "id": 56,
         "name": "Yammy Llargo",
         "image": "/bleach/characters/Ep268YammyCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 10,
+            "Healer": 1,
+            "Assassin": 7,
+            "Support": 3,
+            "Traitor": 6
+        }
     },
     {
         "id": 57,
         "name": "Coyote Starrk",
         "image": "/bleach/characters/Ep277StarrkCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 58,
         "name": "Love Aikawa",
         "image": "/bleach/characters/Ep278LoveCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 59,
         "name": "Mashiro Kuna",
         "image": "/bleach/characters/Ep278MashiroCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 5
+        }
     },
     {
         "id": 60,
         "name": "Hachigen Ushōda",
         "image": "/bleach/characters/Ep279HachigenCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 5,
+            "Assassin": 5,
+            "Support": 8,
+            "Traitor": 6
+        }
     },
     {
         "id": 61,
         "name": "Kaname Tōsen",
         "image": "/bleach/characters/Ep280TosenCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 62,
         "name": "Hiyori Sarugaki",
         "image": "/bleach/characters/Ep285HiyoriCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
     },
     {
         "id": 63,
         "name": "Kon",
         "image": "/bleach/characters/Ep320KonCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 3,
+            "ViceCaptain": 3,
+            "Tank": 3,
+            "Healer": 2,
+            "Assassin": 2,
+            "Support": 5,
+            "Traitor": 3
+        }
     },
     {
         "id": 64,
         "name": "Kisuke Urahara",
         "image": "/bleach/characters/Ep329UraharaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 8,
+            "Healer": 6,
+            "Assassin": 8,
+            "Support": 10,
+            "Traitor": 9
+        }
     },
     {
         "id": 65,
         "name": "Keigo Asano",
         "image": "/bleach/characters/Ep343KeigoCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 3,
+            "ViceCaptain": 3,
+            "Tank": 3,
+            "Healer": 1,
+            "Assassin": 2,
+            "Support": 4,
+            "Traitor": 3
+        }
     },
     {
         "id": 66,
         "name": "Tatsuki Arisawa",
         "image": "/bleach/characters/Ep343TatsukiCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 4,
+            "Support": 4,
+            "Traitor": 4
+        }
     },
     {
         "id": 67,
         "name": "Ikumi Unagiya",
         "image": "/bleach/characters/Ep344IkumiCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 3,
+            "Assassin": 4,
+            "Support": 6,
+            "Traitor": 5
+        }
     },
     {
         "id": 68,
         "name": "Kūgo Ginjō",
         "image": "/bleach/characters/Ep344KugoCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 69,
         "name": "Ryūken Ishida",
         "image": "/bleach/characters/Ep345RyukenCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 7,
+            "Tank": 6,
+            "Healer": 5,
+            "Assassin": 6,
+            "Support": 7,
+            "Traitor": 6
+        }
     },
     {
         "id": 70,
         "name": "Jackie Tristan",
         "image": "/bleach/characters/Ep347JackieCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 4,
+            "Traitor": 4
+        }
     },
     {
         "id": 71,
         "name": "Giriko Kutsuzawa",
         "image": "/bleach/characters/Ep351GirikoCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
     },
     {
         "id": 72,
         "name": "Yasutora Sado",
         "image": "/bleach/characters/Ep351SadoCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 6
+        }
     },
     {
         "id": 73,
         "name": "Riruka Dokugamine",
         "image": "/bleach/characters/Ep352RirukaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 4,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 6,
+            "Traitor": 5
+        }
     },
     {
         "id": 74,
         "name": "Shūkurō Tsukishima",
         "image": "/bleach/characters/Ep353TsukishimaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 75,
         "name": "Yukio Hans Vorarlberna",
         "image": "/bleach/characters/Ep354YukioCharaPic2.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 7,
+            "Traitor": 5
+        }
     },
     {
         "id": 76,
         "name": "Ikkaku Madarame",
         "image": "/bleach/characters/Ep363IkkakuCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 1,
+            "Assassin": 7,
+            "Support": 4,
+            "Traitor": 6
+        }
     },
     {
         "id": 77,
         "name": "Renji Abarai",
         "image": "/bleach/characters/Ep363RenjiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 78,
         "name": "Shinji Hirako",
         "image": "/bleach/characters/Ep366ShinjiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 79,
         "name": "Robert Accutrone",
         "image": "/bleach/characters/Ep370RobertCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
     },
     {
         "id": 80,
         "name": "Driscoll Berci",
         "image": "/bleach/characters/Ep371DriscollCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 7,
+            "Healer": 1,
+            "Assassin": 6,
+            "Support": 4,
+            "Traitor": 5
+        }
     },
     {
         "id": 81,
         "name": "Loyd Lloyd",
         "image": "/bleach/characters/Ep371LoydCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 82,
         "name": "Mask De Masculine",
         "image": "/bleach/characters/Ep371MaskCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 1,
+            "Assassin": 7,
+            "Support": 4,
+            "Traitor": 6
+        }
     },
     {
         "id": 83,
         "name": "Kirio Hikifune",
         "image": "/bleach/characters/Ep374HikifuneCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 7,
+            "Assassin": 6,
+            "Support": 9,
+            "Traitor": 8
+        }
     },
     {
         "id": 84,
         "name": "Ichibē Hyōsube",
         "image": "/bleach/characters/Ep374IchibeiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 9,
+            "Healer": 6,
+            "Assassin": 9,
+            "Support": 9,
+            "Traitor": 9
+        }
     },
     {
         "id": 85,
         "name": "Tenjirō Kirinji",
         "image": "/bleach/characters/Ep374KirinjiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 9,
+            "Assassin": 6,
+            "Support": 9,
+            "Traitor": 8
+        }
     },
     {
         "id": 86,
         "name": "Senjumaru Shutara",
         "image": "/bleach/characters/Ep374SenjumaruCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 6,
+            "Assassin": 7,
+            "Support": 9,
+            "Traitor": 8
+        }
     },
     {
         "id": 87,
         "name": "Shunsui Kyōraku",
         "image": "/bleach/characters/Ep375ShunsuiCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 8,
+            "Healer": 4,
+            "Assassin": 9,
+            "Support": 9,
+            "Traitor": 8
+        }
     },
     {
         "id": 88,
         "name": "Kinpika Kiganjō",
         "image": "/bleach/characters/Ep376KiganjoCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 6
+        }
     },
     {
         "id": 89,
         "name": "Ōetsu Nimaiya",
         "image": "/bleach/characters/Ep376NimaiyaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 4,
+            "Assassin": 9,
+            "Support": 8,
+            "Traitor": 8
+        }
     },
     {
         "id": 90,
         "name": "Kanae Katagiri",
         "image": "/bleach/characters/Ep377KatagiriCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 4,
+            "Healer": 3,
+            "Assassin": 3,
+            "Support": 5,
+            "Traitor": 4
+        }
     },
     {
         "id": 91,
         "name": "Tōshirō Hitsugaya",
         "image": "/bleach/characters/Ep379HitsugayaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 92,
         "name": "Askin Nakk Le Vaar",
         "image": "/bleach/characters/Ep380AskinCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 4,
+            "Assassin": 8,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 93,
         "name": "Bazz-B",
         "image": "/bleach/characters/Ep380BazzBCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 6
+        }
     },
     {
         "id": 94,
         "name": "Bambietta Basterbine",
         "image": "/bleach/characters/Ep383BambiettaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 6
+        }
     },
     {
         "id": 95,
         "name": "Gremmy Thoumeaux",
         "image": "/bleach/characters/Ep386GremmyCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 4,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 8
+        }
     },
     {
         "id": 96,
         "name": "Candice Catnipp",
         "image": "/bleach/characters/Ep387CandiceCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 6
+        }
     },
     {
         "id": 97,
         "name": "Giselle Gewelle",
         "image": "/bleach/characters/Ep387GiselleCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 6,
+            "Assassin": 7,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 98,
         "name": "Liltotto Lamperd",
         "image": "/bleach/characters/Ep387LiltottoCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
     },
     {
         "id": 99,
         "name": "Tetsuzaemon Iba",
         "image": "/bleach/characters/Ep388IbaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
     },
     {
         "id": 100,
         "name": "Meninas McAllon",
         "image": "/bleach/characters/Ep389MeninasCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 4,
+            "Traitor": 6
+        }
     },
     {
         "id": 101,
         "name": "Ganju Shiba",
         "image": "/bleach/characters/Ep390GanjuCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 4,
+            "Support": 6,
+            "Traitor": 5
+        }
     },
     {
         "id": 102,
         "name": "Gerard Valkyrie",
         "image": "/bleach/characters/Ep390GerardCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 10,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 8
+        }
     },
     {
         "id": 103,
         "name": "Lille Barro",
         "image": "/bleach/characters/Ep390LilleCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 104,
         "name": "Grimmjow Jaegerjaquez",
         "image": "/bleach/characters/Ep398GrimmjowCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 9,
+            "Support": 5,
+            "Traitor": 7
+        }
     },
     {
         "id": 105,
         "name": "Nelliel Tu Odelschwanck",
         "image": "/bleach/characters/Ep398NellielCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 8,
+            "Healer": 5,
+            "Assassin": 7,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 106,
         "name": "Pernida Parnkgjas",
         "image": "/bleach/characters/Ep402PernidaCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 9,
+            "Healer": 4,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
     },
     {
         "id": 107,
         "name": "Don Kanonji",
         "image": "/bleach/characters/Ep50DonCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 3,
+            "ViceCaptain": 3,
+            "Tank": 3,
+            "Healer": 1,
+            "Assassin": 2,
+            "Support": 4,
+            "Traitor": 3
+        }
     },
     {
         "id": 108,
         "name": "Orihime Inoue",
         "image": "/bleach/characters/Episode_347_Orihime.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 10,
+            "Assassin": 3,
+            "Support": 10,
+            "Traitor": 7
+        }
     },
     {
         "id": 109,
         "name": "Mayuri Kurotsuchi",
         "image": "/bleach/characters/NBFHMayuriCharaPic.webp",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 5,
+            "Assassin": 7,
+            "Support": 9,
+            "Traitor": 8
+        }
     },
     {
         "id": 110,
         "name": "Rangiku Matsumoto",
         "image": "/bleach/characters/RangikuMatsumoto.jpg",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 8,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 7,
+            "Traitor": 6
+        }
     },
     {
         "id": 111,
         "name": "Rukia Kuchiki",
         "image": "/bleach/characters/RukiaKuchiki.jpg",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 7,
+            "Traitor": 7
+        }
     },
     {
         "id": 112,
         "name": "Genryūsai Shigekuni Yamamoto",
         "image": "/bleach/characters/YamamotoGenryusai.jpg",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 10,
+            "Tank": 10,
+            "Healer": 4,
+            "Assassin": 9,
+            "Support": 9,
+            "Traitor": 9
+        }
     },
     {
         "id": 113,
         "name": "Yoruichi Shihōin",
         "image": "/bleach/characters/YoruichiShihoin.jpg",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 10,
+            "Support": 8,
+            "Traitor": 8
+        }
     },
     {
         "id": 114,
         "name": "Ichigo Kurosaki",
         "image": "/bleach/characters/ichigokurosaki.jpg",
-        "used": false
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 9,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 8,
+            "Traitor": 8
+        }
     }
 ]
