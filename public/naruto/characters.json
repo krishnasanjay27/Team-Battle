@@ -1,908 +1,2267 @@
 [
     {
-        "id":  0,
-        "name":  "Naruto",
-        "image":  "/naruto/characters/Naruto.png",
-        "used":  false
-    },
-    {
-        "id":  1,
-        "name":  "Sasuke",
-        "image":  "/naruto/characters/Sasuke.png",
-        "used":  false
-    },
-    {
-        "id":  2,
-        "name":  "Sakura",
-        "image":  "/naruto/characters/Sakura.png",
-        "used":  false
-    },
-    {
-        "id":  3,
-        "name":  "Kakashi",
-        "image":  "/naruto/characters/Kakashi.png",
-        "used":  false
-    },
-    {
-        "id":  4,
-        "name":  "Guy",
-        "image":  "/naruto/characters/Guy.png",
-        "used":  false
-    },
-    {
-        "id":  5,
-        "name":  "Lee",
-        "image":  "/naruto/characters/Lee.png",
-        "used":  false
-    },
-    {
-        "id":  6,
-        "name":  "Neji",
-        "image":  "/naruto/characters/Neji.png",
-        "used":  false
-    },
-    {
-        "id":  7,
-        "name":  "Tenten",
-        "image":  "/naruto/characters/Tenten.png",
-        "used":  false
-    },
-    {
-        "id":  8,
-        "name":  "Sai",
-        "image":  "/naruto/characters/Sai.png",
-        "used":  false
-    },
-    {
-        "id":  9,
-        "name":  "Yamato",
-        "image":  "/naruto/characters/Yamato.png",
-        "used":  false
-    },
-    {
-        "id":  10,
-        "name":  "Shikamaru",
-        "image":  "/naruto/characters/Shikamaru.png",
-        "used":  false
-    },
-    {
-        "id":  11,
-        "name":  "Ino",
-        "image":  "/naruto/characters/Ino.png",
-        "used":  false
-    },
-    {
-        "id":  12,
-        "name":  "Choji",
-        "image":  "/naruto/characters/Choji.png",
-        "used":  false
-    },
-    {
-        "id":  13,
-        "name":  "Asuma",
-        "image":  "/naruto/characters/Asuma.png",
-        "used":  false
-    },
-    {
-        "id":  14,
-        "name":  "Kurenai",
-        "image":  "/naruto/characters/Kurenai.png",
-        "used":  false
-    },
-    {
-        "id":  15,
-        "name":  "Hinata",
-        "image":  "/naruto/characters/Hinata.png",
-        "used":  false
-    },
-    {
-        "id":  16,
-        "name":  "Shino",
-        "image":  "/naruto/characters/Shino.png",
-        "used":  false
-    },
-    {
-        "id":  17,
-        "name":  "Kiba",
-        "image":  "/naruto/characters/Kiba.png",
-        "used":  false
-    },
-    {
-        "id":  18,
-        "name":  "Akamaru",
-        "image":  "/naruto/characters/Akamaru.png",
-        "used":  false
-    },
-    {
-        "id":  19,
-        "name":  "Iruka",
-        "image":  "/naruto/characters/Iruka.png",
-        "used":  false
-    },
-    {
-        "id":  20,
-        "name":  "Gaara",
-        "image":  "/naruto/characters/Gaara.png",
-        "used":  false
-    },
-    {
-        "id":  21,
-        "name":  "Temari",
-        "image":  "/naruto/characters/Temari.png",
-        "used":  false
-    },
-    {
-        "id":  22,
-        "name":  "Kankuro",
-        "image":  "/naruto/characters/Kankuro.png",
-        "used":  false
-    },
-    {
-        "id":  23,
-        "name":  "Chiyo",
-        "image":  "/naruto/characters/Chiyo.png",
-        "used":  false
-    },
-    {
-        "id":  24,
-        "name":  "Ebizo",
-        "image":  "/naruto/characters/Ebizo.png",
-        "used":  false
-    },
-    {
-        "id":  25,
-        "name":  "Baki",
-        "image":  "/naruto/characters/Baki.png",
-        "used":  false
-    },
-    {
-        "id":  26,
-        "name":  "Jiraiya",
-        "image":  "/naruto/characters/Jiraiya.png",
-        "used":  false
-    },
-    {
-        "id":  27,
-        "name":  "Tsunade",
-        "image":  "/naruto/characters/Tsunade.png",
-        "used":  false
-    },
-    {
-        "id":  28,
-        "name":  "Shizune",
-        "image":  "/naruto/characters/Shizune.png",
-        "used":  false
-    },
-    {
-        "id":  29,
-        "name":  "Tonton",
-        "image":  "/naruto/characters/Tonton.png",
-        "used":  false
-    },
-    {
-        "id":  30,
-        "name":  "Orochimaru",
-        "image":  "/naruto/characters/Orochimaru.png",
-        "used":  false
-    },
-    {
-        "id":  31,
-        "name":  "Kabuto",
-        "image":  "/naruto/characters/Kabuto.png",
-        "used":  false
-    },
-    {
-        "id":  32,
-        "name":  "Minato",
-        "image":  "/naruto/characters/Minato.png",
-        "used":  false
-    },
-    {
-        "id":  33,
-        "name":  "Kushina",
-        "image":  "/naruto/characters/Kushina.png",
-        "used":  false
-    },
-    {
-        "id":  34,
-        "name":  "Mito",
-        "image":  "/naruto/characters/Mito.png",
-        "used":  false
-    },
-    {
-        "id":  35,
-        "name":  "Hashirama",
-        "image":  "/naruto/characters/Hashirama.png",
-        "used":  false
-    },
-    {
-        "id":  36,
-        "name":  "Tobirama",
-        "image":  "/naruto/characters/Tobirama.png",
-        "used":  false
-    },
-    {
-        "id":  37,
-        "name":  "Hiruzen",
-        "image":  "/naruto/characters/Hiruzen.png",
-        "used":  false
-    },
-    {
-        "id":  38,
-        "name":  "Shisui",
-        "image":  "/naruto/characters/Shisui.png",
-        "used":  false
-    },
-    {
-        "id":  39,
-        "name":  "Itachi",
-        "image":  "/naruto/characters/Itachi.png",
-        "used":  false
-    },
-    {
-        "id":  40,
-        "name":  "Kisame",
-        "image":  "/naruto/characters/Kisame.png",
-        "used":  false
-    },
-    {
-        "id":  41,
-        "name":  "Sasori",
-        "image":  "/naruto/characters/Sasori.png",
-        "used":  false
-    },
-    {
-        "id":  42,
-        "name":  "Deidara",
-        "image":  "/naruto/characters/Deidara.png",
-        "used":  false
-    },
-    {
-        "id":  43,
-        "name":  "Hidan",
-        "image":  "/naruto/characters/Hidan.png",
-        "used":  false
-    },
-    {
-        "id":  44,
-        "name":  "Kakuzu",
-        "image":  "/naruto/characters/Kakuzu.png",
-        "used":  false
-    },
-    {
-        "id":  45,
-        "name":  "Yahiko",
-        "image":  "/naruto/characters/Yahiko.png",
-        "used":  false
-    },
-    {
-        "id":  46,
-        "name":  "Nagato",
-        "image":  "/naruto/characters/Nagato.png",
-        "used":  false
-    },
-    {
-        "id":  47,
-        "name":  "Konan",
-        "image":  "/naruto/characters/Konan.png",
-        "used":  false
-    },
-    {
-        "id":  48,
-        "name":  "Obito",
-        "image":  "/naruto/characters/Obito.png",
-        "used":  false
-    },
-    {
-        "id":  49,
-        "name":  "Rin",
-        "image":  "/naruto/characters/Rin.png",
-        "used":  false
-    },
-    {
-        "id":  50,
-        "name":  "Zetsu",
-        "image":  "/naruto/characters/Zetsu.png",
-        "used":  false
-    },
-    {
-        "id":  51,
-        "name":  "Madara",
-        "image":  "/naruto/characters/Madara.png",
-        "used":  false
-    },
-    {
-        "id":  52,
-        "name":  "Izuna",
-        "image":  "/naruto/characters/Izuna.png",
-        "used":  false
-    },
-    {
-        "id":  53,
-        "name":  "Haku",
-        "image":  "/naruto/characters/Haku.png",
-        "used":  false
-    },
-    {
-        "id":  54,
-        "name":  "Zabuza",
-        "image":  "/naruto/characters/Zabuza.png",
-        "used":  false
-    },
-    {
-        "id":  55,
-        "name":  "Kimimaro",
-        "image":  "/naruto/characters/Kimimaro.png",
-        "used":  false
-    },
-    {
-        "id":  56,
-        "name":  "Kidomaru",
-        "image":  "/naruto/characters/Kidomaru.png",
-        "used":  false
-    },
-    {
-        "id":  57,
-        "name":  "Tayuya",
-        "image":  "/naruto/characters/Tayuya.png",
-        "used":  false
-    },
-    {
-        "id":  58,
-        "name":  "Sakon \u0026 Ukon",
-        "image":  "/naruto/characters/Sakon___Ukon.png",
-        "used":  false
-    },
-    {
-        "id":  59,
-        "name":  "Jirobo",
-        "image":  "/naruto/characters/Jirobo.png",
-        "used":  false
-    },
-    {
-        "id":  60,
-        "name":  "Suigetsu",
-        "image":  "/naruto/characters/Suigetsu.png",
-        "used":  false
-    },
-    {
-        "id":  61,
-        "name":  "Karin",
-        "image":  "/naruto/characters/Karin.png",
-        "used":  false
-    },
-    {
-        "id":  62,
-        "name":  "Jugo",
-        "image":  "/naruto/characters/Jugo.png",
-        "used":  false
-    },
-    {
-        "id":  63,
-        "name":  "Konohamaru",
-        "image":  "/naruto/characters/Konohamaru.png",
-        "used":  false
-    },
-    {
-        "id":  64,
-        "name":  "Moegi",
-        "image":  "/naruto/characters/Moegi.png",
-        "used":  false
-    },
-    {
-        "id":  65,
-        "name":  "Udon",
-        "image":  "/naruto/characters/Udon.png",
-        "used":  false
-    },
-    {
-        "id":  66,
-        "name":  "Ebisu",
-        "image":  "/naruto/characters/Ebisu.png",
-        "used":  false
-    },
-    {
-        "id":  67,
-        "name":  "Shikaku",
-        "image":  "/naruto/characters/Shikaku.png",
-        "used":  false
-    },
-    {
-        "id":  68,
-        "name":  "Inoichi",
-        "image":  "/naruto/characters/Inoichi.png",
-        "used":  false
-    },
-    {
-        "id":  69,
-        "name":  "Choza",
-        "image":  "/naruto/characters/Choza.png",
-        "used":  false
-    },
-    {
-        "id":  70,
-        "name":  "Anko",
-        "image":  "/naruto/characters/Anko.png",
-        "used":  false
-    },
-    {
-        "id":  71,
-        "name":  "Ibiki",
-        "image":  "/naruto/characters/Ibiki.png",
-        "used":  false
-    },
-    {
-        "id":  72,
-        "name":  "Hanabi",
-        "image":  "/naruto/characters/Hanabi.png",
-        "used":  false
-    },
-    {
-        "id":  73,
-        "name":  "Hiashi",
-        "image":  "/naruto/characters/Hiashi.png",
-        "used":  false
-    },
-    {
-        "id":  74,
-        "name":  "Hizashi",
-        "image":  "/naruto/characters/Hizashi.png",
-        "used":  false
-    },
-    {
-        "id":  75,
-        "name":  "Killer B",
-        "image":  "/naruto/characters/Killer_B.png",
-        "used":  false
-    },
-    {
-        "id":  76,
-        "name":  "A",
-        "image":  "/naruto/characters/A.png",
-        "used":  false
-    },
-    {
-        "id":  77,
-        "name":  "Darui",
-        "image":  "/naruto/characters/Darui.png",
-        "used":  false
-    },
-    {
-        "id":  78,
-        "name":  "C",
-        "image":  "/naruto/characters/C.png",
-        "used":  false
-    },
-    {
-        "id":  79,
-        "name":  "Mei Terumi",
-        "image":  "/naruto/characters/Mei_Terumi.png",
-        "used":  false
-    },
-    {
-        "id":  80,
-        "name":  "Chojuro",
-        "image":  "/naruto/characters/Chojuro.png",
-        "used":  false
-    },
-    {
-        "id":  81,
-        "name":  "Ao",
-        "image":  "/naruto/characters/Ao.png",
-        "used":  false
-    },
-    {
-        "id":  82,
-        "name":  "Onoki",
-        "image":  "/naruto/characters/Onoki.png",
-        "used":  false
-    },
-    {
-        "id":  83,
-        "name":  "Kurotsuchi",
-        "image":  "/naruto/characters/Kurotsuchi.png",
-        "used":  false
-    },
-    {
-        "id":  84,
-        "name":  "Akatsuchi",
-        "image":  "/naruto/characters/Akatsuchi.png",
-        "used":  false
-    },
-    {
-        "id":  85,
-        "name":  "Danzo",
-        "image":  "/naruto/characters/Danzo.png",
-        "used":  false
-    },
-    {
-        "id":  86,
-        "name":  "Torune",
-        "image":  "/naruto/characters/Torune.png",
-        "used":  false
-    },
-    {
-        "id":  87,
-        "name":  "Fu",
-        "image":  "/naruto/characters/Fu.png",
-        "used":  false
-    },
-    {
-        "id":  88,
-        "name":  "Mifune",
-        "image":  "/naruto/characters/Mifune.png",
-        "used":  false
-    },
-    {
-        "id":  89,
-        "name":  "Hanzo",
-        "image":  "/naruto/characters/Hanzo.png",
-        "used":  false
-    },
-    {
-        "id":  90,
-        "name":  "Rasa",
-        "image":  "/naruto/characters/Rasa.png",
-        "used":  false
-    },
-    {
-        "id":  91,
-        "name":  "Mu",
-        "image":  "/naruto/characters/Mu.png",
-        "used":  false
-    },
-    {
-        "id":  92,
-        "name":  "Gengetsu",
-        "image":  "/naruto/characters/Gengetsu.png",
-        "used":  false
-    },
-    {
-        "id":  93,
-        "name":  "Shin",
-        "image":  "/naruto/characters/Shin.png",
-        "used":  false
-    },
-    {
-        "id":  94,
-        "name":  "Sakumo",
-        "image":  "/naruto/characters/Sakumo.png",
-        "used":  false
-    },
-    {
-        "id":  95,
-        "name":  "Might Duy",
-        "image":  "/naruto/characters/Might_Duy.png",
-        "used":  false
-    },
-    {
-        "id":  96,
-        "name":  "Fugaku",
-        "image":  "/naruto/characters/Fugaku.png",
-        "used":  false
-    },
-    {
-        "id":  97,
-        "name":  "Mikoto",
-        "image":  "/naruto/characters/Mikoto.png",
-        "used":  false
-    },
-    {
-        "id":  98,
-        "name":  "Hayate",
-        "image":  "/naruto/characters/Hayate.png",
-        "used":  false
-    },
-    {
-        "id":  99,
-        "name":  "Genma",
-        "image":  "/naruto/characters/Genma.png",
-        "used":  false
-    },
-    {
-        "id":  100,
-        "name":  "Izumo",
-        "image":  "/naruto/characters/Izumo.png",
-        "used":  false
-    },
-    {
-        "id":  101,
-        "name":  "Kotetsu",
-        "image":  "/naruto/characters/Kotetsu.png",
-        "used":  false
-    },
-    {
-        "id":  102,
-        "name":  "Aoba",
-        "image":  "/naruto/characters/Aoba.png",
-        "used":  false
-    },
-    {
-        "id":  103,
-        "name":  "Raido",
-        "image":  "/naruto/characters/Raido.png",
-        "used":  false
-    },
-    {
-        "id":  104,
-        "name":  "Hana",
-        "image":  "/naruto/characters/Hana.png",
-        "used":  false
-    },
-    {
-        "id":  105,
-        "name":  "Tsume",
-        "image":  "/naruto/characters/Tsume.png",
-        "used":  false
-    },
-    {
-        "id":  106,
-        "name":  "Dan Kato",
-        "image":  "/naruto/characters/Dan_Kato.png",
-        "used":  false
-    },
-    {
-        "id":  107,
-        "name":  "Nawaki",
-        "image":  "/naruto/characters/Nawaki.png",
-        "used":  false
-    },
-    {
-        "id":  108,
-        "name":  "Dosu",
-        "image":  "/naruto/characters/Dosu.png",
-        "used":  false
-    },
-    {
-        "id":  109,
-        "name":  "Kin",
-        "image":  "/naruto/characters/Kin.png",
-        "used":  false
-    },
-    {
-        "id":  110,
-        "name":  "Zaku",
-        "image":  "/naruto/characters/Zaku.png",
-        "used":  false
-    },
-    {
-        "id":  111,
-        "name":  "Karui",
-        "image":  "/naruto/characters/Karui.png",
-        "used":  false
-    },
-    {
-        "id":  112,
-        "name":  "Omoi",
-        "image":  "/naruto/characters/Omoi.png",
-        "used":  false
-    },
-    {
-        "id":  113,
-        "name":  "Samui",
-        "image":  "/naruto/characters/Samui.png",
-        "used":  false
-    },
-    {
-        "id":  114,
-        "name":  "Mabui",
-        "image":  "/naruto/characters/Mabui.png",
-        "used":  false
-    },
-    {
-        "id":  115,
-        "name":  "Ginkaku",
-        "image":  "/naruto/characters/Ginkaku.png",
-        "used":  false
-    },
-    {
-        "id":  116,
-        "name":  "Kinkaku",
-        "image":  "/naruto/characters/Kinkaku.png",
-        "used":  false
-    },
-    {
-        "id":  117,
-        "name":  "Yugito Nii",
-        "image":  "/naruto/characters/Yugito_Nii.png",
-        "used":  false
-    },
-    {
-        "id":  118,
-        "name":  "Yagura",
-        "image":  "/naruto/characters/Yagura.png",
-        "used":  false
-    },
-    {
-        "id":  119,
-        "name":  "Roshi",
-        "image":  "/naruto/characters/Roshi.png",
-        "used":  false
-    },
-    {
-        "id":  120,
-        "name":  "Han",
-        "image":  "/naruto/characters/Han.png",
-        "used":  false
-    },
-    {
-        "id":  121,
-        "name":  "Utakata",
-        "image":  "/naruto/characters/Utakata.png",
-        "used":  false
-    },
-    {
-        "id":  122,
-        "name":  "Fuu",
-        "image":  "/naruto/characters/Fuu.png",
-        "used":  false
-    },
-    {
-        "id":  123,
-        "name":  "Shukaku",
-        "image":  "/naruto/characters/Shukaku.png",
-        "used":  false
-    },
-    {
-        "id":  124,
-        "name":  "Matatabi",
-        "image":  "/naruto/characters/Matatabi.png",
-        "used":  false
-    },
-    {
-        "id":  125,
-        "name":  "Isobu",
-        "image":  "/naruto/characters/Isobu.png",
-        "used":  false
-    },
-    {
-        "id":  126,
-        "name":  "Son Goku",
-        "image":  "/naruto/characters/Son_Goku.png",
-        "used":  false
-    },
-    {
-        "id":  127,
-        "name":  "Kokuo",
-        "image":  "/naruto/characters/Kokuo.png",
-        "used":  false
-    },
-    {
-        "id":  128,
-        "name":  "Saiken",
-        "image":  "/naruto/characters/Saiken.png",
-        "used":  false
-    },
-    {
-        "id":  129,
-        "name":  "Chomei",
-        "image":  "/naruto/characters/Chomei.png",
-        "used":  false
-    },
-    {
-        "id":  130,
-        "name":  "Gyuki",
-        "image":  "/naruto/characters/Gyuki.png",
-        "used":  false
-    },
-    {
-        "id":  131,
-        "name":  "Kurama",
-        "image":  "/naruto/characters/Kurama.png",
-        "used":  false
-    },
-    {
-        "id":  132,
-        "name":  "Juubi",
-        "image":  "/naruto/characters/Juubi.png",
-        "used":  false
-    },
-    {
-        "id":  133,
-        "name":  "Pakkun",
-        "image":  "/naruto/characters/Pakkun.png",
-        "used":  false
-    },
-    {
-        "id":  134,
-        "name":  "Fukasaku",
-        "image":  "/naruto/characters/Fukasaku.png",
-        "used":  false
-    },
-    {
-        "id":  135,
-        "name":  "Shima",
-        "image":  "/naruto/characters/Shima.png",
-        "used":  false
-    },
-    {
-        "id":  136,
-        "name":  "Enma",
-        "image":  "/naruto/characters/Enma.png",
-        "used":  false
-    },
-    {
-        "id":  137,
-        "name":  "Katsuyu",
-        "image":  "/naruto/characters/Katsuyu.png",
-        "used":  false
-    },
-    {
-        "id":  138,
-        "name":  "Manda",
-        "image":  "/naruto/characters/Manda.png",
-        "used":  false
-    },
-    {
-        "id":  139,
-        "name":  "Aoda",
-        "image":  "/naruto/characters/Aoda.png",
-        "used":  false
-    },
-    {
-        "id":  140,
-        "name":  "Gamabunta",
-        "image":  "/naruto/characters/Gamabunta.png",
-        "used":  false
-    },
-    {
-        "id":  141,
-        "name":  "Gamakichi",
-        "image":  "/naruto/characters/Gamakichi.png",
-        "used":  false
-    },
-    {
-        "id":  142,
-        "name":  "Gamaken",
-        "image":  "/naruto/characters/Gamaken.png",
-        "used":  false
-    },
-    {
-        "id":  143,
-        "name":  "Gamahiro",
-        "image":  "/naruto/characters/Gamahiro.png",
-        "used":  false
-    },
-    {
-        "id":  144,
-        "name":  "Gamatatsu",
-        "image":  "/naruto/characters/Gamatatsu.png",
-        "used":  false
-    },
-    {
-        "id":  145,
-        "name":  "Gamamaru",
-        "image":  "/naruto/characters/Gamamaru.png",
-        "used":  false
-    },
-    {
-        "id":  146,
-        "name":  "Kaguya",
-        "image":  "/naruto/characters/Kaguya.png",
-        "used":  false
-    },
-    {
-        "id":  147,
-        "name":  "Hagoromo",
-        "image":  "/naruto/characters/Hagoromo.png",
-        "used":  false
-    },
-    {
-        "id":  148,
-        "name":  "Hamura",
-        "image":  "/naruto/characters/Hamura.png",
-        "used":  false
-    },
-    {
-        "id":  149,
-        "name":  "Indra",
-        "image":  "/naruto/characters/Indra.png",
-        "used":  false
-    },
-    {
-        "id":  150,
-        "name":  "Asura",
-        "image":  "/naruto/characters/Asura.png",
-        "used":  false
+        "id": 0,
+        "name": "Naruto",
+        "image": "/naruto/characters/Naruto.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 9,
+            "Healer": 4,
+            "Assassin": 8,
+            "Support": 7,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 1,
+        "name": "Sasuke",
+        "image": "/naruto/characters/Sasuke.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 9,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 2,
+        "name": "Sakura",
+        "image": "/naruto/characters/Sakura.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 9,
+            "Assassin": 4,
+            "Support": 8,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 3,
+        "name": "Kakashi",
+        "image": "/naruto/characters/Kakashi.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 4,
+            "Assassin": 8,
+            "Support": 7,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 4,
+        "name": "Guy",
+        "image": "/naruto/characters/Guy.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 9,
+            "Support": 5,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 5,
+        "name": "Lee",
+        "image": "/naruto/characters/Lee.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 8,
+            "Healer": 1,
+            "Assassin": 8,
+            "Support": 4,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 6,
+        "name": "Neji",
+        "image": "/naruto/characters/Neji.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 7,
+        "name": "Tenten",
+        "image": "/naruto/characters/Tenten.png",
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 5,
+            "Tank": 4,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 6,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 8,
+        "name": "Sai",
+        "image": "/naruto/characters/Sai.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 9,
+        "name": "Yamato",
+        "image": "/naruto/characters/Yamato.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 10,
+        "name": "Shikamaru",
+        "image": "/naruto/characters/Shikamaru.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 4,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 9,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 11,
+        "name": "Ino",
+        "image": "/naruto/characters/Ino.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 6,
+            "Tank": 4,
+            "Healer": 6,
+            "Assassin": 3,
+            "Support": 7,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 12,
+        "name": "Choji",
+        "image": "/naruto/characters/Choji.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 13,
+        "name": "Asuma",
+        "image": "/naruto/characters/Asuma.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 14,
+        "name": "Kurenai",
+        "image": "/naruto/characters/Kurenai.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 4,
+            "Healer": 3,
+            "Assassin": 5,
+            "Support": 8,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 15,
+        "name": "Hinata",
+        "image": "/naruto/characters/Hinata.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 4,
+            "Assassin": 4,
+            "Support": 7,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 16,
+        "name": "Shino",
+        "image": "/naruto/characters/Shino.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 7,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 17,
+        "name": "Kiba",
+        "image": "/naruto/characters/Kiba.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 1,
+            "Assassin": 6,
+            "Support": 4,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 18,
+        "name": "Akamaru",
+        "image": "/naruto/characters/Akamaru.png",
+        "used": false,
+        "stats": {
+            "Captain": 2,
+            "ViceCaptain": 3,
+            "Tank": 4,
+            "Healer": 1,
+            "Assassin": 3,
+            "Support": 5,
+            "Traitor": 3
+        }
+    },
+    {
+        "id": 19,
+        "name": "Iruka",
+        "image": "/naruto/characters/Iruka.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 7,
+            "Tank": 5,
+            "Healer": 4,
+            "Assassin": 3,
+            "Support": 8,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 20,
+        "name": "Gaara",
+        "image": "/naruto/characters/Gaara.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 7,
+            "Tank": 9,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 21,
+        "name": "Temari",
+        "image": "/naruto/characters/Temari.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 22,
+        "name": "Kankuro",
+        "image": "/naruto/characters/Kankuro.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 23,
+        "name": "Chiyo",
+        "image": "/naruto/characters/Chiyo.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 5,
+            "Healer": 7,
+            "Assassin": 5,
+            "Support": 8,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 24,
+        "name": "Ebizo",
+        "image": "/naruto/characters/Ebizo.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 5,
+            "Healer": 3,
+            "Assassin": 4,
+            "Support": 7,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 25,
+        "name": "Baki",
+        "image": "/naruto/characters/Baki.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 26,
+        "name": "Jiraiya",
+        "image": "/naruto/characters/Jiraiya.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 5,
+            "Assassin": 8,
+            "Support": 7,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 27,
+        "name": "Tsunade",
+        "image": "/naruto/characters/Tsunade.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 10,
+            "Assassin": 5,
+            "Support": 8,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 28,
+        "name": "Shizune",
+        "image": "/naruto/characters/Shizune.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 4,
+            "Healer": 8,
+            "Assassin": 3,
+            "Support": 7,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 29,
+        "name": "Tonton",
+        "image": "/naruto/characters/Tonton.png",
+        "used": false,
+        "stats": {
+            "Captain": 1,
+            "ViceCaptain": 2,
+            "Tank": 2,
+            "Healer": 1,
+            "Assassin": 1,
+            "Support": 4,
+            "Traitor": 2
+        }
+    },
+    {
+        "id": 30,
+        "name": "Orochimaru",
+        "image": "/naruto/characters/Orochimaru.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 6,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 31,
+        "name": "Kabuto",
+        "image": "/naruto/characters/Kabuto.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 7,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 32,
+        "name": "Minato",
+        "image": "/naruto/characters/Minato.png",
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 8,
+            "Healer": 4,
+            "Assassin": 10,
+            "Support": 7,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 33,
+        "name": "Kushina",
+        "image": "/naruto/characters/Kushina.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 5,
+            "Assassin": 6,
+            "Support": 7,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 34,
+        "name": "Mito",
+        "image": "/naruto/characters/Mito.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 7,
+            "Tank": 6,
+            "Healer": 7,
+            "Assassin": 4,
+            "Support": 8,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 35,
+        "name": "Hashirama",
+        "image": "/naruto/characters/Hashirama.png",
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 10,
+            "Healer": 8,
+            "Assassin": 9,
+            "Support": 8,
+            "Traitor": 9
+        }
+    },
+    {
+        "id": 36,
+        "name": "Tobirama",
+        "image": "/naruto/characters/Tobirama.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 4,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 37,
+        "name": "Hiruzen",
+        "image": "/naruto/characters/Hiruzen.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 6,
+            "Assassin": 7,
+            "Support": 8,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 38,
+        "name": "Shisui",
+        "image": "/naruto/characters/Shisui.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 39,
+        "name": "Itachi",
+        "image": "/naruto/characters/Itachi.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 4,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 40,
+        "name": "Kisame",
+        "image": "/naruto/characters/Kisame.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 41,
+        "name": "Sasori",
+        "image": "/naruto/characters/Sasori.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 4,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 42,
+        "name": "Deidara",
+        "image": "/naruto/characters/Deidara.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 9,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 43,
+        "name": "Hidan",
+        "image": "/naruto/characters/Hidan.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 3,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 44,
+        "name": "Kakuzu",
+        "image": "/naruto/characters/Kakuzu.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 4,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 45,
+        "name": "Yahiko",
+        "image": "/naruto/characters/Yahiko.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 7,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 46,
+        "name": "Nagato",
+        "image": "/naruto/characters/Nagato.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 5,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 47,
+        "name": "Konan",
+        "image": "/naruto/characters/Konan.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 48,
+        "name": "Obito",
+        "image": "/naruto/characters/Obito.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 7,
+            "Tank": 9,
+            "Healer": 4,
+            "Assassin": 9,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 49,
+        "name": "Rin",
+        "image": "/naruto/characters/Rin.png",
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 5,
+            "Tank": 3,
+            "Healer": 7,
+            "Assassin": 2,
+            "Support": 6,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 50,
+        "name": "Zetsu",
+        "image": "/naruto/characters/Zetsu.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 7,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 51,
+        "name": "Madara",
+        "image": "/naruto/characters/Madara.png",
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 10,
+            "Healer": 6,
+            "Assassin": 10,
+            "Support": 8,
+            "Traitor": 9
+        }
+    },
+    {
+        "id": 52,
+        "name": "Izuna",
+        "image": "/naruto/characters/Izuna.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 53,
+        "name": "Haku",
+        "image": "/naruto/characters/Haku.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 4,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 54,
+        "name": "Zabuza",
+        "image": "/naruto/characters/Zabuza.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 55,
+        "name": "Kimimaro",
+        "image": "/naruto/characters/Kimimaro.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 4,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 56,
+        "name": "Kidomaru",
+        "image": "/naruto/characters/Kidomaru.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 6,
+            "Healer": 1,
+            "Assassin": 7,
+            "Support": 4,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 57,
+        "name": "Tayuya",
+        "image": "/naruto/characters/Tayuya.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 5,
+            "Healer": 1,
+            "Assassin": 7,
+            "Support": 4,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 58,
+        "name": "Sakon & Ukon",
+        "image": "/naruto/characters/Sakon___Ukon.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 7,
+            "Healer": 1,
+            "Assassin": 7,
+            "Support": 4,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 59,
+        "name": "Jirobo",
+        "image": "/naruto/characters/Jirobo.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 8,
+            "Healer": 1,
+            "Assassin": 5,
+            "Support": 3,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 60,
+        "name": "Suigetsu",
+        "image": "/naruto/characters/Suigetsu.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 4,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 61,
+        "name": "Karin",
+        "image": "/naruto/characters/Karin.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 6,
+            "Tank": 4,
+            "Healer": 8,
+            "Assassin": 3,
+            "Support": 7,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 62,
+        "name": "Jugo",
+        "image": "/naruto/characters/Jugo.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 4,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 63,
+        "name": "Konohamaru",
+        "image": "/naruto/characters/Konohamaru.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 4,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 5,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 64,
+        "name": "Moegi",
+        "image": "/naruto/characters/Moegi.png",
+        "used": false,
+        "stats": {
+            "Captain": 3,
+            "ViceCaptain": 4,
+            "Tank": 3,
+            "Healer": 2,
+            "Assassin": 3,
+            "Support": 5,
+            "Traitor": 3
+        }
+    },
+    {
+        "id": 65,
+        "name": "Udon",
+        "image": "/naruto/characters/Udon.png",
+        "used": false,
+        "stats": {
+            "Captain": 3,
+            "ViceCaptain": 3,
+            "Tank": 3,
+            "Healer": 2,
+            "Assassin": 2,
+            "Support": 4,
+            "Traitor": 3
+        }
+    },
+    {
+        "id": 66,
+        "name": "Ebisu",
+        "image": "/naruto/characters/Ebisu.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 5,
+            "Healer": 3,
+            "Assassin": 4,
+            "Support": 7,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 67,
+        "name": "Shikaku",
+        "image": "/naruto/characters/Shikaku.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 5,
+            "Healer": 3,
+            "Assassin": 5,
+            "Support": 9,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 68,
+        "name": "Inoichi",
+        "image": "/naruto/characters/Inoichi.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 7,
+            "Tank": 5,
+            "Healer": 4,
+            "Assassin": 4,
+            "Support": 9,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 69,
+        "name": "Choza",
+        "image": "/naruto/characters/Choza.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 70,
+        "name": "Anko",
+        "image": "/naruto/characters/Anko.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 71,
+        "name": "Ibiki",
+        "image": "/naruto/characters/Ibiki.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 72,
+        "name": "Hanabi",
+        "image": "/naruto/characters/Hanabi.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 6,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 73,
+        "name": "Hiashi",
+        "image": "/naruto/characters/Hiashi.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 7,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 74,
+        "name": "Hizashi",
+        "image": "/naruto/characters/Hizashi.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 75,
+        "name": "Killer B",
+        "image": "/naruto/characters/Killer_B.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 9,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 76,
+        "name": "A",
+        "image": "/naruto/characters/A.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 7,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 77,
+        "name": "Darui",
+        "image": "/naruto/characters/Darui.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 78,
+        "name": "C",
+        "image": "/naruto/characters/C.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 6,
+            "Tank": 4,
+            "Healer": 4,
+            "Assassin": 3,
+            "Support": 7,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 79,
+        "name": "Mei Terumi",
+        "image": "/naruto/characters/Mei_Terumi.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 4,
+            "Assassin": 7,
+            "Support": 7,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 80,
+        "name": "Chojuro",
+        "image": "/naruto/characters/Chojuro.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 81,
+        "name": "Ao",
+        "image": "/naruto/characters/Ao.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 5,
+            "Support": 7,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 82,
+        "name": "Onoki",
+        "image": "/naruto/characters/Onoki.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 4,
+            "Assassin": 8,
+            "Support": 8,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 83,
+        "name": "Kurotsuchi",
+        "image": "/naruto/characters/Kurotsuchi.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 84,
+        "name": "Akatsuchi",
+        "image": "/naruto/characters/Akatsuchi.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 7,
+            "Healer": 2,
+            "Assassin": 4,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 85,
+        "name": "Danzo",
+        "image": "/naruto/characters/Danzo.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 86,
+        "name": "Torune",
+        "image": "/naruto/characters/Torune.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 4,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 87,
+        "name": "Fu",
+        "image": "/naruto/characters/Fu.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 88,
+        "name": "Mifune",
+        "image": "/naruto/characters/Mifune.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 89,
+        "name": "Hanzo",
+        "image": "/naruto/characters/Hanzo.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 90,
+        "name": "Rasa",
+        "image": "/naruto/characters/Rasa.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 91,
+        "name": "Mu",
+        "image": "/naruto/characters/Mu.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 92,
+        "name": "Gengetsu",
+        "image": "/naruto/characters/Gengetsu.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 8,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 93,
+        "name": "Shin",
+        "image": "/naruto/characters/Shin.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 94,
+        "name": "Sakumo",
+        "image": "/naruto/characters/Sakumo.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 7,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 95,
+        "name": "Might Duy",
+        "image": "/naruto/characters/Might_Duy.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 96,
+        "name": "Fugaku",
+        "image": "/naruto/characters/Fugaku.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 97,
+        "name": "Mikoto",
+        "image": "/naruto/characters/Mikoto.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 6,
+            "Tank": 4,
+            "Healer": 5,
+            "Assassin": 3,
+            "Support": 7,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 98,
+        "name": "Hayate",
+        "image": "/naruto/characters/Hayate.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 99,
+        "name": "Genma",
+        "image": "/naruto/characters/Genma.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 100,
+        "name": "Izumo",
+        "image": "/naruto/characters/Izumo.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 4,
+            "Support": 6,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 101,
+        "name": "Kotetsu",
+        "image": "/naruto/characters/Kotetsu.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 4,
+            "Support": 6,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 102,
+        "name": "Aoba",
+        "image": "/naruto/characters/Aoba.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 5,
+            "Healer": 3,
+            "Assassin": 5,
+            "Support": 7,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 103,
+        "name": "Raido",
+        "image": "/naruto/characters/Raido.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 104,
+        "name": "Hana",
+        "image": "/naruto/characters/Hana.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 4,
+            "Healer": 4,
+            "Assassin": 3,
+            "Support": 6,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 105,
+        "name": "Tsume",
+        "image": "/naruto/characters/Tsume.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 106,
+        "name": "Dan Kato",
+        "image": "/naruto/characters/Dan_Kato.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 6,
+            "Healer": 5,
+            "Assassin": 5,
+            "Support": 7,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 107,
+        "name": "Nawaki",
+        "image": "/naruto/characters/Nawaki.png",
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 4,
+            "Healer": 2,
+            "Assassin": 3,
+            "Support": 4,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 108,
+        "name": "Dosu",
+        "image": "/naruto/characters/Dosu.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 5,
+            "Healer": 1,
+            "Assassin": 6,
+            "Support": 4,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 109,
+        "name": "Kin",
+        "image": "/naruto/characters/Kin.png",
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 4,
+            "Healer": 1,
+            "Assassin": 5,
+            "Support": 4,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 110,
+        "name": "Zaku",
+        "image": "/naruto/characters/Zaku.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 4,
+            "Tank": 6,
+            "Healer": 1,
+            "Assassin": 6,
+            "Support": 4,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 111,
+        "name": "Karui",
+        "image": "/naruto/characters/Karui.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 112,
+        "name": "Omoi",
+        "image": "/naruto/characters/Omoi.png",
+        "used": false,
+        "stats": {
+            "Captain": 5,
+            "ViceCaptain": 5,
+            "Tank": 5,
+            "Healer": 2,
+            "Assassin": 5,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 113,
+        "name": "Samui",
+        "image": "/naruto/characters/Samui.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 5,
+            "Healer": 3,
+            "Assassin": 5,
+            "Support": 6,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 114,
+        "name": "Mabui",
+        "image": "/naruto/characters/Mabui.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 6,
+            "Tank": 4,
+            "Healer": 3,
+            "Assassin": 4,
+            "Support": 7,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 115,
+        "name": "Ginkaku",
+        "image": "/naruto/characters/Ginkaku.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 116,
+        "name": "Kinkaku",
+        "image": "/naruto/characters/Kinkaku.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 117,
+        "name": "Yugito Nii",
+        "image": "/naruto/characters/Yugito_Nii.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 7,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 118,
+        "name": "Yagura",
+        "image": "/naruto/characters/Yagura.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 119,
+        "name": "Roshi",
+        "image": "/naruto/characters/Roshi.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 120,
+        "name": "Han",
+        "image": "/naruto/characters/Han.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 121,
+        "name": "Utakata",
+        "image": "/naruto/characters/Utakata.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 122,
+        "name": "Fuu",
+        "image": "/naruto/characters/Fuu.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 123,
+        "name": "Shukaku",
+        "image": "/naruto/characters/Shukaku.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 124,
+        "name": "Matatabi",
+        "image": "/naruto/characters/Matatabi.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 9,
+            "Support": 5,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 125,
+        "name": "Isobu",
+        "image": "/naruto/characters/Isobu.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 126,
+        "name": "Son Goku",
+        "image": "/naruto/characters/Son_Goku.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 127,
+        "name": "Kokuo",
+        "image": "/naruto/characters/Kokuo.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 128,
+        "name": "Saiken",
+        "image": "/naruto/characters/Saiken.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 6,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 129,
+        "name": "Chomei",
+        "image": "/naruto/characters/Chomei.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 130,
+        "name": "Gyuki",
+        "image": "/naruto/characters/Gyuki.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 131,
+        "name": "Kurama",
+        "image": "/naruto/characters/Kurama.png",
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 10,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 6,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 132,
+        "name": "Juubi",
+        "image": "/naruto/characters/Juubi.png",
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 10,
+            "Healer": 4,
+            "Assassin": 10,
+            "Support": 6,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 133,
+        "name": "Pakkun",
+        "image": "/naruto/characters/Pakkun.png",
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 5,
+            "Tank": 3,
+            "Healer": 2,
+            "Assassin": 3,
+            "Support": 7,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 134,
+        "name": "Fukasaku",
+        "image": "/naruto/characters/Fukasaku.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 7,
+            "Tank": 5,
+            "Healer": 5,
+            "Assassin": 4,
+            "Support": 9,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 135,
+        "name": "Shima",
+        "image": "/naruto/characters/Shima.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 7,
+            "Tank": 5,
+            "Healer": 5,
+            "Assassin": 4,
+            "Support": 9,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 136,
+        "name": "Enma",
+        "image": "/naruto/characters/Enma.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 7,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 137,
+        "name": "Katsuyu",
+        "image": "/naruto/characters/Katsuyu.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 8,
+            "Tank": 7,
+            "Healer": 10,
+            "Assassin": 2,
+            "Support": 10,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 138,
+        "name": "Manda",
+        "image": "/naruto/characters/Manda.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 4,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 139,
+        "name": "Aoda",
+        "image": "/naruto/characters/Aoda.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 4,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 140,
+        "name": "Gamabunta",
+        "image": "/naruto/characters/Gamabunta.png",
+        "used": false,
+        "stats": {
+            "Captain": 8,
+            "ViceCaptain": 7,
+            "Tank": 9,
+            "Healer": 2,
+            "Assassin": 8,
+            "Support": 5,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 141,
+        "name": "Gamakichi",
+        "image": "/naruto/characters/Gamakichi.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 6,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 5,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 142,
+        "name": "Gamaken",
+        "image": "/naruto/characters/Gamaken.png",
+        "used": false,
+        "stats": {
+            "Captain": 7,
+            "ViceCaptain": 6,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 7,
+            "Support": 5,
+            "Traitor": 6
+        }
+    },
+    {
+        "id": 143,
+        "name": "Gamahiro",
+        "image": "/naruto/characters/Gamahiro.png",
+        "used": false,
+        "stats": {
+            "Captain": 6,
+            "ViceCaptain": 5,
+            "Tank": 8,
+            "Healer": 2,
+            "Assassin": 6,
+            "Support": 4,
+            "Traitor": 5
+        }
+    },
+    {
+        "id": 144,
+        "name": "Gamatatsu",
+        "image": "/naruto/characters/Gamatatsu.png",
+        "used": false,
+        "stats": {
+            "Captain": 4,
+            "ViceCaptain": 4,
+            "Tank": 5,
+            "Healer": 1,
+            "Assassin": 4,
+            "Support": 4,
+            "Traitor": 4
+        }
+    },
+    {
+        "id": 145,
+        "name": "Gamamaru",
+        "image": "/naruto/characters/Gamamaru.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 9,
+            "Tank": 7,
+            "Healer": 6,
+            "Assassin": 4,
+            "Support": 9,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 146,
+        "name": "Kaguya",
+        "image": "/naruto/characters/Kaguya.png",
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 10,
+            "Healer": 6,
+            "Assassin": 10,
+            "Support": 8,
+            "Traitor": 9
+        }
+    },
+    {
+        "id": 147,
+        "name": "Hagoromo",
+        "image": "/naruto/characters/Hagoromo.png",
+        "used": false,
+        "stats": {
+            "Captain": 10,
+            "ViceCaptain": 9,
+            "Tank": 9,
+            "Healer": 7,
+            "Assassin": 9,
+            "Support": 9,
+            "Traitor": 9
+        }
+    },
+    {
+        "id": 148,
+        "name": "Hamura",
+        "image": "/naruto/characters/Hamura.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 9,
+            "Healer": 6,
+            "Assassin": 8,
+            "Support": 8,
+            "Traitor": 8
+        }
+    },
+    {
+        "id": 149,
+        "name": "Indra",
+        "image": "/naruto/characters/Indra.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 8,
+            "Healer": 3,
+            "Assassin": 9,
+            "Support": 6,
+            "Traitor": 7
+        }
+    },
+    {
+        "id": 150,
+        "name": "Asura",
+        "image": "/naruto/characters/Asura.png",
+        "used": false,
+        "stats": {
+            "Captain": 9,
+            "ViceCaptain": 8,
+            "Tank": 9,
+            "Healer": 7,
+            "Assassin": 7,
+            "Support": 9,
+            "Traitor": 8
+        }
     }
 ]
