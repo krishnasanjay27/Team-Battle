@@ -3,360 +3,900 @@
     "id": 0,
     "name": "Akari Nitta",
     "image": "/Jujutsu Kaisen/characters/AkariNittaP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 3,
+      "ViceCaptain": 4,
+      "Tank": 3,
+      "Healer": 6,
+      "Assassin": 2,
+      "Support": 6,
+      "Traitor": 4
+    }
   },
   {
     "id": 1,
     "name": "Aoi Todo",
     "image": "/Jujutsu Kaisen/characters/AoiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 8,
+      "Healer": 2,
+      "Assassin": 8,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 2,
     "name": "Atsuya Kusakabe",
     "image": "/Jujutsu Kaisen/characters/AtsuyaKusakabeP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 6,
+      "Tank": 6,
+      "Healer": 3,
+      "Assassin": 5,
+      "Support": 6,
+      "Traitor": 5
+    }
   },
   {
     "id": 3,
     "name": "Cursed Rika Orimoto",
     "image": "/Jujutsu Kaisen/characters/CursedRikaOrimotoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 5,
+      "Tank": 9,
+      "Healer": 3,
+      "Assassin": 9,
+      "Support": 4,
+      "Traitor": 6
+    }
   },
   {
     "id": 4,
     "name": "Dagon",
     "image": "/Jujutsu Kaisen/characters/DagonP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 4,
+      "Tank": 8,
+      "Healer": 2,
+      "Assassin": 7,
+      "Support": 4,
+      "Traitor": 5
+    }
   },
   {
     "id": 5,
     "name": "Finger Bearer",
     "image": "/Jujutsu Kaisen/characters/FingerBearerP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 3,
+      "ViceCaptain": 2,
+      "Tank": 6,
+      "Healer": 1,
+      "Assassin": 6,
+      "Support": 2,
+      "Traitor": 3
+    }
   },
   {
     "id": 6,
     "name": "Fumihiko Takaba",
     "image": "/Jujutsu Kaisen/characters/FumihikoTakabaP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 5,
+      "ViceCaptain": 4,
+      "Tank": 4,
+      "Healer": 3,
+      "Assassin": 5,
+      "Support": 6,
+      "Traitor": 5
+    }
   },
   {
     "id": 7,
     "name": "Satoru Gojo",
     "image": "/Jujutsu Kaisen/characters/GojoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 10,
+      "ViceCaptain": 9,
+      "Tank": 9,
+      "Healer": 6,
+      "Assassin": 10,
+      "Support": 8,
+      "Traitor": 9
+    }
   },
   {
     "id": 8,
     "name": "Hajime Kashimo",
     "image": "/Jujutsu Kaisen/characters/HajimeKashimoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 5,
+      "Tank": 7,
+      "Healer": 2,
+      "Assassin": 9,
+      "Support": 4,
+      "Traitor": 6
+    }
   },
   {
     "id": 9,
     "name": "Hana Kurusu",
     "image": "/Jujutsu Kaisen/characters/HanaKurusuP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 5,
+      "ViceCaptain": 6,
+      "Tank": 4,
+      "Healer": 7,
+      "Assassin": 3,
+      "Support": 7,
+      "Traitor": 5
+    }
   },
   {
     "id": 10,
     "name": "Hanami",
     "image": "/Jujutsu Kaisen/characters/HanamiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 4,
+      "Tank": 9,
+      "Healer": 3,
+      "Assassin": 7,
+      "Support": 4,
+      "Traitor": 6
+    }
   },
   {
     "id": 11,
     "name": "Hiromi Higuruma",
     "image": "/Jujutsu Kaisen/characters/HiromiHigurumaP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 6,
+      "Healer": 3,
+      "Assassin": 7,
+      "Support": 6,
+      "Traitor": 6
+    }
   },
   {
     "id": 12,
     "name": "Kiyotaka Ijichi",
     "image": "/Jujutsu Kaisen/characters/IjichiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 4,
+      "ViceCaptain": 5,
+      "Tank": 3,
+      "Healer": 3,
+      "Assassin": 2,
+      "Support": 7,
+      "Traitor": 4
+    }
   },
   {
     "id": 13,
     "name": "Inventory Curse",
     "image": "/Jujutsu Kaisen/characters/InventoryCurseP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 3,
+      "ViceCaptain": 2,
+      "Tank": 5,
+      "Healer": 1,
+      "Assassin": 6,
+      "Support": 2,
+      "Traitor": 3
+    }
   },
   {
     "id": 14,
     "name": "Jin Itadori",
     "image": "/Jujutsu Kaisen/characters/JinItadoriP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 5,
+      "ViceCaptain": 4,
+      "Tank": 5,
+      "Healer": 2,
+      "Assassin": 4,
+      "Support": 4,
+      "Traitor": 4
+    }
   },
   {
     "id": 15,
     "name": "Jinichi Zenin",
     "image": "/Jujutsu Kaisen/characters/JinichiZeninP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 5,
+      "ViceCaptain": 5,
+      "Tank": 6,
+      "Healer": 2,
+      "Assassin": 6,
+      "Support": 4,
+      "Traitor": 5
+    }
   },
   {
     "id": 16,
     "name": "Jogo",
     "image": "/Jujutsu Kaisen/characters/JogoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 4,
+      "Tank": 7,
+      "Healer": 2,
+      "Assassin": 9,
+      "Support": 4,
+      "Traitor": 5
+    }
   },
   {
     "id": 17,
     "name": "Junpei Yoshino",
     "image": "/Jujutsu Kaisen/characters/JunpeiYoshinoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 4,
+      "ViceCaptain": 4,
+      "Tank": 4,
+      "Healer": 2,
+      "Assassin": 5,
+      "Support": 4,
+      "Traitor": 4
+    }
   },
   {
     "id": 18,
     "name": "Kasumi Miwa",
     "image": "/Jujutsu Kaisen/characters/KasumiMiwaP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 4,
+      "ViceCaptain": 5,
+      "Tank": 4,
+      "Healer": 2,
+      "Assassin": 4,
+      "Support": 6,
+      "Traitor": 4
+    }
   },
   {
     "id": 19,
     "name": "Kenjaku",
     "image": "/Jujutsu Kaisen/characters/KenjakuP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 9,
+      "ViceCaptain": 7,
+      "Tank": 8,
+      "Healer": 4,
+      "Assassin": 9,
+      "Support": 7,
+      "Traitor": 7
+    }
   },
   {
     "id": 20,
     "name": "Kinji Hakari",
     "image": "/Jujutsu Kaisen/characters/KinjiHakariP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 8,
+      "Healer": 3,
+      "Assassin": 8,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 21,
     "name": "Kirara Hoshi",
     "image": "/Jujutsu Kaisen/characters/KiraraHoshiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 5,
+      "ViceCaptain": 6,
+      "Tank": 4,
+      "Healer": 3,
+      "Assassin": 4,
+      "Support": 7,
+      "Traitor": 5
+    }
   },
   {
     "id": 22,
     "name": "Kokichi Muta",
     "image": "/Jujutsu Kaisen/characters/KokichiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 6,
+      "Tank": 5,
+      "Healer": 3,
+      "Assassin": 6,
+      "Support": 6,
+      "Traitor": 5
+    }
   },
   {
     "id": 23,
     "name": "Mahito",
     "image": "/Jujutsu Kaisen/characters/MahitoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 5,
+      "Tank": 8,
+      "Healer": 5,
+      "Assassin": 9,
+      "Support": 4,
+      "Traitor": 6
+    }
   },
   {
     "id": 24,
     "name": "Mai Zenin",
     "image": "/Jujutsu Kaisen/characters/MaiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 4,
+      "ViceCaptain": 4,
+      "Tank": 4,
+      "Healer": 2,
+      "Assassin": 5,
+      "Support": 4,
+      "Traitor": 4
+    }
   },
   {
     "id": 25,
     "name": "Maki Zenin",
     "image": "/Jujutsu Kaisen/characters/MakiP_29.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 8,
+      "Healer": 1,
+      "Assassin": 8,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 26,
     "name": "Masamichi Yaga",
     "image": "/Jujutsu Kaisen/characters/MasamichiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 8,
+      "ViceCaptain": 7,
+      "Tank": 6,
+      "Healer": 4,
+      "Assassin": 4,
+      "Support": 7,
+      "Traitor": 6
+    }
   },
   {
     "id": 27,
     "name": "Megumi Fushiguro",
     "image": "/Jujutsu Kaisen/characters/MegumiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 6,
+      "Healer": 2,
+      "Assassin": 7,
+      "Support": 6,
+      "Traitor": 6
+    }
   },
   {
     "id": 28,
     "name": "Mei Mei",
     "image": "/Jujutsu Kaisen/characters/MeiMeiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 6,
+      "Healer": 2,
+      "Assassin": 7,
+      "Support": 6,
+      "Traitor": 6
+    }
   },
   {
     "id": 29,
     "name": "Miguel",
     "image": "/Jujutsu Kaisen/characters/MiguelP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 5,
+      "Tank": 7,
+      "Healer": 2,
+      "Assassin": 8,
+      "Support": 4,
+      "Traitor": 5
+    }
   },
   {
     "id": 30,
     "name": "Momo Nishimiya",
     "image": "/Jujutsu Kaisen/characters/MomoNishimiyaP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 4,
+      "ViceCaptain": 5,
+      "Tank": 3,
+      "Healer": 3,
+      "Assassin": 3,
+      "Support": 6,
+      "Traitor": 4
+    }
   },
   {
     "id": 31,
     "name": "Kento Nanami",
     "image": "/Jujutsu Kaisen/characters/NanamiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 8,
+      "ViceCaptain": 7,
+      "Tank": 7,
+      "Healer": 2,
+      "Assassin": 8,
+      "Support": 6,
+      "Traitor": 6
+    }
   },
   {
     "id": 32,
     "name": "Naobito Zenin",
     "image": "/Jujutsu Kaisen/characters/NaobitoZeninP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 8,
+      "ViceCaptain": 7,
+      "Tank": 7,
+      "Healer": 2,
+      "Assassin": 8,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 33,
     "name": "Naoya Zenin",
     "image": "/Jujutsu Kaisen/characters/NaoyaZeninP_29.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 5,
+      "Tank": 6,
+      "Healer": 1,
+      "Assassin": 8,
+      "Support": 4,
+      "Traitor": 5
+    }
   },
   {
     "id": 34,
     "name": "Nobara Kugisaki",
     "image": "/Jujutsu Kaisen/characters/NobaraP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 5,
+      "Tank": 5,
+      "Healer": 2,
+      "Assassin": 7,
+      "Support": 5,
+      "Traitor": 5
+    }
   },
   {
     "id": 35,
     "name": "Noritoshi Kamo",
     "image": "/Jujutsu Kaisen/characters/NoritoshiKamoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 5,
+      "Tank": 5,
+      "Healer": 2,
+      "Assassin": 6,
+      "Support": 5,
+      "Traitor": 5
+    }
   },
   {
     "id": 36,
     "name": "Ogi Zenin",
     "image": "/Jujutsu Kaisen/characters/OgiZeninP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 5,
+      "Tank": 6,
+      "Healer": 2,
+      "Assassin": 6,
+      "Support": 4,
+      "Traitor": 5
+    }
   },
   {
     "id": 37,
     "name": "Panda",
     "image": "/Jujutsu Kaisen/characters/PandaP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 5,
+      "Tank": 8,
+      "Healer": 2,
+      "Assassin": 6,
+      "Support": 5,
+      "Traitor": 5
+    }
   },
   {
     "id": 38,
     "name": "Ranta Zenin",
     "image": "/Jujutsu Kaisen/characters/RantaZeninP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 4,
+      "ViceCaptain": 4,
+      "Tank": 4,
+      "Healer": 2,
+      "Assassin": 5,
+      "Support": 4,
+      "Traitor": 4
+    }
   },
   {
     "id": 39,
     "name": "Reggie Star",
     "image": "/Jujutsu Kaisen/characters/ReggieStarP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 5,
+      "Tank": 6,
+      "Healer": 2,
+      "Assassin": 7,
+      "Support": 5,
+      "Traitor": 5
+    }
   },
   {
     "id": 40,
     "name": "Rika Orimoto",
     "image": "/Jujutsu Kaisen/characters/RikaP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 5,
+      "Tank": 7,
+      "Healer": 4,
+      "Assassin": 7,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 41,
     "name": "Riko Amanai",
     "image": "/Jujutsu Kaisen/characters/RikoAmanaiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 3,
+      "ViceCaptain": 4,
+      "Tank": 2,
+      "Healer": 4,
+      "Assassin": 1,
+      "Support": 5,
+      "Traitor": 3
+    }
   },
   {
     "id": 42,
     "name": "Ryu Ishigori",
     "image": "/Jujutsu Kaisen/characters/RyuIshigoriP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 7,
+      "Healer": 2,
+      "Assassin": 9,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 43,
     "name": "Shoko Ieri",
     "image": "/Jujutsu Kaisen/characters/ShokoIeriP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 6,
+      "Tank": 3,
+      "Healer": 9,
+      "Assassin": 3,
+      "Support": 8,
+      "Traitor": 6
+    }
   },
   {
     "id": 44,
     "name": "Suguru Geto",
     "image": "/Jujutsu Kaisen/characters/SuguruGetoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 9,
+      "ViceCaptain": 7,
+      "Tank": 8,
+      "Healer": 4,
+      "Assassin": 8,
+      "Support": 7,
+      "Traitor": 7
+    }
   },
   {
     "id": 45,
     "name": "Ryomen Sukuna",
     "image": "/Jujutsu Kaisen/characters/SukunaP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 10,
+      "ViceCaptain": 8,
+      "Tank": 9,
+      "Healer": 5,
+      "Assassin": 10,
+      "Support": 7,
+      "Traitor": 8
+    }
   },
   {
     "id": 46,
     "name": "Takada-chan",
     "image": "/Jujutsu Kaisen/characters/Takada-chanP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 4,
+      "ViceCaptain": 5,
+      "Tank": 3,
+      "Healer": 3,
+      "Assassin": 2,
+      "Support": 6,
+      "Traitor": 4
+    }
   },
   {
     "id": 47,
     "name": "Takako Uro",
     "image": "/Jujutsu Kaisen/characters/TakakoUroP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 6,
+      "Healer": 2,
+      "Assassin": 8,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 48,
     "name": "Takuma Ino",
     "image": "/Jujutsu Kaisen/characters/TakumaInoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 5,
+      "ViceCaptain": 5,
+      "Tank": 5,
+      "Healer": 2,
+      "Assassin": 6,
+      "Support": 5,
+      "Traitor": 5
+    }
   },
   {
     "id": 49,
     "name": "Tamamo-no-Mae",
     "image": "/Jujutsu Kaisen/characters/Tamamo-no-MaeP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 4,
+      "Tank": 7,
+      "Healer": 2,
+      "Assassin": 8,
+      "Support": 4,
+      "Traitor": 5
+    }
   },
   {
     "id": 50,
     "name": "Master Tengen",
     "image": "/Jujutsu Kaisen/characters/TengenP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 9,
+      "ViceCaptain": 8,
+      "Tank": 6,
+      "Healer": 7,
+      "Assassin": 3,
+      "Support": 9,
+      "Traitor": 7
+    }
   },
   {
     "id": 51,
     "name": "Toge Inumaki",
     "image": "/Jujutsu Kaisen/characters/TogeP_29.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 6,
+      "Tank": 5,
+      "Healer": 2,
+      "Assassin": 7,
+      "Support": 6,
+      "Traitor": 5
+    }
   },
   {
     "id": 52,
     "name": "Toji Fushiguro",
     "image": "/Jujutsu Kaisen/characters/TojiFushiguroP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 8,
+      "ViceCaptain": 6,
+      "Tank": 9,
+      "Healer": 1,
+      "Assassin": 10,
+      "Support": 4,
+      "Traitor": 6
+    }
   },
   {
     "id": 53,
     "name": "Uraume",
     "image": "/Jujutsu Kaisen/characters/UraumeP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 7,
+      "Healer": 4,
+      "Assassin": 8,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 54,
     "name": "Utahime Iori",
     "image": "/Jujutsu Kaisen/characters/UtahimeP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 6,
+      "ViceCaptain": 7,
+      "Tank": 4,
+      "Healer": 5,
+      "Assassin": 3,
+      "Support": 8,
+      "Traitor": 6
+    }
   },
   {
     "id": 55,
     "name": "Yorozu",
     "image": "/Jujutsu Kaisen/characters/YorozuP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 7,
+      "Healer": 3,
+      "Assassin": 8,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 56,
     "name": "Yoshinobu Gakuganji",
     "image": "/Jujutsu Kaisen/characters/YoshinobuP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 5,
+      "Healer": 3,
+      "Assassin": 5,
+      "Support": 6,
+      "Traitor": 5
+    }
   },
   {
     "id": 57,
     "name": "Yuji Itadori",
     "image": "/Jujutsu Kaisen/characters/YujiP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 7,
+      "ViceCaptain": 6,
+      "Tank": 8,
+      "Healer": 2,
+      "Assassin": 8,
+      "Support": 5,
+      "Traitor": 6
+    }
   },
   {
     "id": 58,
     "name": "Yuki Tsukumo",
     "image": "/Jujutsu Kaisen/characters/YukiTsukumoP.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 9,
+      "ViceCaptain": 8,
+      "Tank": 8,
+      "Healer": 4,
+      "Assassin": 8,
+      "Support": 7,
+      "Traitor": 7
+    }
   },
   {
     "id": 59,
     "name": "Yuta Okkotsu",
     "image": "/Jujutsu Kaisen/characters/YutaOkkotsuP_29.webp",
-    "used": false
+    "used": false,
+    "stats": {
+      "Captain": 9,
+      "ViceCaptain": 8,
+      "Tank": 8,
+      "Healer": 6,
+      "Assassin": 9,
+      "Support": 7,
+      "Traitor": 8
+    }
   }
 ]
