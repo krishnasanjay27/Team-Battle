@@ -1,302 +1,692 @@
 [
     {
         "id": 0,
-        "name": "Ichigo Kurosaki",
-        "image": "",
+        "name": "Soul King",
+        "image": "/bleach/characters/615SoulKingCharaPic.webp",
         "used": false
     },
     {
         "id": 1,
-        "name": "Rukia Kuchiki",
-        "image": "",
+        "name": "Mimihagi",
+        "image": "/bleach/characters/616MimihagiCharaPic.webp",
         "used": false
     },
     {
         "id": 2,
-        "name": "Orihime Inoue",
-        "image": "",
+        "name": "Yūshirō Shihōin",
+        "image": "/bleach/characters/657YūshirōCharaPic.webp",
         "used": false
     },
     {
         "id": 3,
-        "name": "Uryu Ishida",
-        "image": "",
+        "name": "Sui-Feng",
+        "image": "/bleach/characters/Cg494Pg2SuiFengCharaPic.webp",
         "used": false
     },
     {
         "id": 4,
-        "name": "Yasutora Sado",
-        "image": "",
+        "name": "Tier Harribel",
+        "image": "/bleach/characters/Ch339HarribelCharaPic.webp",
         "used": false
     },
     {
         "id": 5,
-        "name": "Renji Abarai",
-        "image": "",
+        "name": "Yachiru Kusajishi",
+        "image": "/bleach/characters/Ch464YachiruCharaPic.webp",
         "used": false
     },
     {
         "id": 6,
-        "name": "Kisuke Urahara",
-        "image": "",
+        "name": "Kensei Muguruma",
+        "image": "/bleach/characters/Ch494Pg3KenseiCharaPic.webp",
         "used": false
     },
     {
         "id": 7,
-        "name": "Yoruichi Shihouin",
-        "image": "",
+        "name": "Rōjūrō Otoribashi",
+        "image": "/bleach/characters/Ch494Pg3RoseCharaPic.webp",
         "used": false
     },
     {
         "id": 8,
-        "name": "Byakuya Kuchiki",
-        "image": "",
+        "name": "Sentarō Kotsubaki",
+        "image": "/bleach/characters/Ch494Pg7SentaroCharaPic.webp",
         "used": false
     },
     {
         "id": 9,
-        "name": "Kenpachi Zaraki",
-        "image": "",
+        "name": "Izuru Kira",
+        "image": "/bleach/characters/Ch494Pg9IzuruCharaPic.webp",
         "used": false
     },
     {
         "id": 10,
-        "name": "Toshiro Hitsugaya",
-        "image": "",
+        "name": "Momo Hinamori",
+        "image": "/bleach/characters/Ch505Pg7MomoCharaPic.webp",
         "used": false
     },
     {
         "id": 11,
-        "name": "Rangiku Matsumoto",
-        "image": "",
+        "name": "Yhwach",
+        "image": "/bleach/characters/Ch508Pg5YhwachCharaPic.webp",
         "used": false
     },
     {
         "id": 12,
-        "name": "Sosuke Aizen",
-        "image": "",
+        "name": "Shūhei Hisagi",
+        "image": "/bleach/characters/Ch520.5HisagiCharaPic.webp",
         "used": false
     },
     {
         "id": 13,
-        "name": "Gin Ichimaru",
-        "image": "",
+        "name": "Kenpachi Zaraki",
+        "image": "/bleach/characters/Ch523Pg10ZarakiCharaPic.webp",
         "used": false
     },
     {
         "id": 14,
-        "name": "Ulquiorra Cifer",
-        "image": "",
+        "name": "Retsu Unohana",
+        "image": "/bleach/characters/Ch523Pg14UnohanaCharaPic.webp",
         "used": false
     },
     {
         "id": 15,
-        "name": "Grimmjow Jaegerjaquez",
-        "image": "",
+        "name": "Isshin Kurosaki",
+        "image": "/bleach/characters/Ch536Pg15IsshinCharaPic.webp",
         "used": false
     },
     {
         "id": 16,
-        "name": "Nelliel Tu Odelschwanck",
-        "image": "",
+        "name": "Uryū Ishida",
+        "image": "/bleach/characters/Ch537Pg16UryuCharaPic.webp",
         "used": false
     },
     {
         "id": 17,
-        "name": "Mayuri Kurotsuchi",
-        "image": "",
+        "name": "Jugram Haschwalth",
+        "image": "/bleach/characters/Ch547Pg13JugramCharaPic.webp",
         "used": false
     },
     {
         "id": 18,
-        "name": "Shunsui Kyoraku",
-        "image": "",
+        "name": "Marechiyo Ōmaeda",
+        "image": "/bleach/characters/Ch548Pg3OmaedaCharaPic.webp",
         "used": false
     },
     {
         "id": 19,
-        "name": "Jushiro Ukitake",
-        "image": "",
+        "name": "Nanao Ise",
+        "image": "/bleach/characters/Ch551Pg2NanaoCharaPic.webp",
         "used": false
     },
     {
         "id": 20,
-        "name": "Retsu Unohana",
-        "image": "",
+        "name": "Isane Kotetsu",
+        "image": "/bleach/characters/Ch571Pg1IsaneCharaPic.webp",
         "used": false
     },
     {
         "id": 21,
-        "name": "Sajin Komamura",
-        "image": "",
+        "name": "Sōsuke Aizen",
+        "image": "/bleach/characters/Ch682Pg12AizenCharaPic.webp",
         "used": false
     },
     {
         "id": 22,
-        "name": "Izuru Kira",
-        "image": "",
+        "name": "Byakuya Kuchiki",
+        "image": "/bleach/characters/Ch686ByakuyaCharaPic.webp",
         "used": false
     },
     {
         "id": 23,
-        "name": "Ikkaku Madarame",
-        "image": "",
+        "name": "Apacci",
+        "image": "/bleach/characters/Chap487Pg20ApacciCharaPic.webp",
         "used": false
     },
     {
         "id": 24,
-        "name": "Yachiru Kusajishi",
-        "image": "",
+        "name": "Sung-Sun",
+        "image": "/bleach/characters/Chap487Pg20SungSunCharaPic.webp",
         "used": false
     },
     {
         "id": 25,
-        "name": "Kaname Tosen",
-        "image": "",
+        "name": "Äs Nödt",
+        "image": "/bleach/characters/Chap502Pg1NodtCharaPic.webp",
         "used": false
     },
     {
         "id": 26,
-        "name": "Coyote Starrk",
-        "image": "",
+        "name": "White (Hollow Ichigo)",
+        "image": "/bleach/characters/Chap531Pg6WhiteCharaPic.webp",
         "used": false
     },
     {
         "id": 27,
-        "name": "Tier Harribel",
-        "image": "",
+        "name": "Lisa Yadōmaru",
+        "image": "/bleach/characters/Ep123LisaCharaPic.webp",
         "used": false
     },
     {
         "id": 28,
-        "name": "Ichimaru Ginjo",
-        "image": "",
+        "name": "Zangetsu",
+        "image": "/bleach/characters/Ep123ZangetsuCharaPic.webp",
         "used": false
     },
     {
         "id": 29,
-        "name": "Riruka Dokugamine",
-        "image": "",
+        "name": "Luppi Antenor",
+        "image": "/bleach/characters/Ep139LuppiCharaPic.webp",
         "used": false
     },
     {
         "id": 30,
-        "name": "Shinji Hirako",
-        "image": "",
+        "name": "Wonderweiss Margela",
+        "image": "/bleach/characters/Ep143WonderweissCharaPic2.webp",
         "used": false
     },
     {
         "id": 31,
-        "name": "Hiyori Sarugaki",
-        "image": "",
+        "name": "Dordoni Alessandro Del Socaccio",
+        "image": "/bleach/characters/Ep151DordoniCharaPic.webp",
         "used": false
     },
     {
         "id": 32,
-        "name": "Love Aikawa",
-        "image": "",
+        "name": "Gin Ichimaru",
+        "image": "/bleach/characters/Ep153GinCharaPic.webp",
         "used": false
     },
     {
         "id": 33,
-        "name": "Rose Otoribashi",
-        "image": "",
+        "name": "Pesche Guatiche",
+        "image": "/bleach/characters/Ep156PescheCharaPic2.webp",
         "used": false
     },
     {
         "id": 34,
-        "name": "Kensei Muguruma",
-        "image": "",
+        "name": "Loly Aivirrne",
+        "image": "/bleach/characters/Ep163LolyCharaPic.webp",
         "used": false
     },
     {
         "id": 35,
-        "name": "Mashiro Kuna",
-        "image": "",
+        "name": "Menoly Mallia",
+        "image": "/bleach/characters/Ep163MenolyCharaPic.webp",
         "used": false
     },
     {
         "id": 36,
-        "name": "Bambietta Basterbine",
-        "image": "",
+        "name": "Nnoitra Gilga",
+        "image": "/bleach/characters/Ep190NnoitraCharaPic2.webp",
         "used": false
     },
     {
         "id": 37,
-        "name": "Askin Nakk Le Vaar",
-        "image": "",
+        "name": "Szayelaporro Granz",
+        "image": "/bleach/characters/Ep190SzayelCharaPic.webp",
         "used": false
     },
     {
         "id": 38,
-        "name": "Jugram Haschwalth",
-        "image": "",
+        "name": "Dondochakka Bilstin",
+        "image": "/bleach/characters/Ep194DondochakkaCharaPic2.webp",
         "used": false
     },
     {
         "id": 39,
-        "name": "Bazz-B",
-        "image": "",
+        "name": "Zommari Rureaux",
+        "image": "/bleach/characters/Ep195ZommariCharaPic2.webp",
         "used": false
     },
     {
         "id": 40,
-        "name": "Yhwach",
-        "image": "",
+        "name": "Nemu Kurotsuchi",
+        "image": "/bleach/characters/Ep200NemuCharaPic.webp",
         "used": false
     },
     {
         "id": 41,
-        "name": "Gerard Valkyrie",
-        "image": "",
+        "name": "Ginrei Kuchiki",
+        "image": "/bleach/characters/Ep208GinreiCharaPic.webp",
         "used": false
     },
     {
         "id": 42,
-        "name": "Lille Barro",
-        "image": "",
+        "name": "Kaien Shiba",
+        "image": "/bleach/characters/Ep208KaienCharaPic.webp",
         "used": false
     },
     {
         "id": 43,
-        "name": "Nemu Kurotsuchi",
-        "image": "",
+        "name": "Kasaki",
+        "image": "/bleach/characters/Ep209KasakiCharaPic.webp",
         "used": false
     },
     {
         "id": 44,
-        "name": "Isane Kotetsu",
-        "image": "",
+        "name": "Chōjirō Sasakibe",
+        "image": "/bleach/characters/Ep215ChojiroCharaPic.webp",
         "used": false
     },
     {
         "id": 45,
-        "name": "Kukaku Shiba",
-        "image": "",
+        "name": "Sajin Komamura",
+        "image": "/bleach/characters/Ep215KomamuraCharaPic.webp",
         "used": false
     },
     {
         "id": 46,
-        "name": "Ganju Shiba",
-        "image": "",
+        "name": "Charlotte Chuhlhourne",
+        "image": "/bleach/characters/Ep217CharlotteCharaPic2.webp",
         "used": false
     },
     {
         "id": 47,
-        "name": "Kaien Shiba",
-        "image": "",
+        "name": "Baraggan Louisenbairn",
+        "image": "/bleach/characters/Ep221BaragganCharaPic2.webp",
         "used": false
     },
     {
         "id": 48,
-        "name": "Tatsuki Arisawa",
-        "image": "",
+        "name": "Ayon",
+        "image": "/bleach/characters/Ep225AyonCharaPic2.webp",
         "used": false
     },
     {
         "id": 49,
+        "name": "Kiyone Kotetsu",
+        "image": "/bleach/characters/Ep227KiyoneCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 50,
+        "name": "Jūshirō Ukitake",
+        "image": "/bleach/characters/Ep227UkitakeCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 51,
+        "name": "Zangetsu (Inner Spirit)",
+        "image": "/bleach/characters/Ep233ZangetsuCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 52,
+        "name": "Oscar Joaquín de la Rosa",
+        "image": "/bleach/characters/Ep249OscarCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 53,
+        "name": "Katen Kyōkotsu",
+        "image": "/bleach/characters/Ep265KatenKyokotsuCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 54,
+        "name": "Rudbornn Chelute",
+        "image": "/bleach/characters/Ep267RudbornnCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 55,
+        "name": "Ulquiorra Cifer",
+        "image": "/bleach/characters/Ep267UlquiorraCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 56,
+        "name": "Yammy Llargo",
+        "image": "/bleach/characters/Ep268YammyCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 57,
+        "name": "Coyote Starrk",
+        "image": "/bleach/characters/Ep277StarrkCharaPic2.webp",
+        "used": false
+    },
+    {
+        "id": 58,
+        "name": "Love Aikawa",
+        "image": "/bleach/characters/Ep278LoveCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 59,
+        "name": "Mashiro Kuna",
+        "image": "/bleach/characters/Ep278MashiroCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 60,
+        "name": "Hachigen Ushōda",
+        "image": "/bleach/characters/Ep279HachigenCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 61,
+        "name": "Kaname Tōsen",
+        "image": "/bleach/characters/Ep280TosenCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 62,
+        "name": "Hiyori Sarugaki",
+        "image": "/bleach/characters/Ep285HiyoriCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 63,
+        "name": "Kon",
+        "image": "/bleach/characters/Ep320KonCharaPic2.webp",
+        "used": false
+    },
+    {
+        "id": 64,
+        "name": "Kisuke Urahara",
+        "image": "/bleach/characters/Ep329UraharaCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 65,
         "name": "Keigo Asano",
-        "image": "",
+        "image": "/bleach/characters/Ep343KeigoCharaPic2.webp",
+        "used": false
+    },
+    {
+        "id": 66,
+        "name": "Tatsuki Arisawa",
+        "image": "/bleach/characters/Ep343TatsukiCharaPic2.webp",
+        "used": false
+    },
+    {
+        "id": 67,
+        "name": "Ikumi Unagiya",
+        "image": "/bleach/characters/Ep344IkumiCharaPic2.webp",
+        "used": false
+    },
+    {
+        "id": 68,
+        "name": "Kūgo Ginjō",
+        "image": "/bleach/characters/Ep344KugoCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 69,
+        "name": "Ryūken Ishida",
+        "image": "/bleach/characters/Ep345RyukenCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 70,
+        "name": "Jackie Tristan",
+        "image": "/bleach/characters/Ep347JackieCharaPic2.webp",
+        "used": false
+    },
+    {
+        "id": 71,
+        "name": "Giriko Kutsuzawa",
+        "image": "/bleach/characters/Ep351GirikoCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 72,
+        "name": "Yasutora Sado",
+        "image": "/bleach/characters/Ep351SadoCharaPic2.webp",
+        "used": false
+    },
+    {
+        "id": 73,
+        "name": "Riruka Dokugamine",
+        "image": "/bleach/characters/Ep352RirukaCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 74,
+        "name": "Shūkurō Tsukishima",
+        "image": "/bleach/characters/Ep353TsukishimaCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 75,
+        "name": "Yukio Hans Vorarlberna",
+        "image": "/bleach/characters/Ep354YukioCharaPic2.webp",
+        "used": false
+    },
+    {
+        "id": 76,
+        "name": "Ikkaku Madarame",
+        "image": "/bleach/characters/Ep363IkkakuCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 77,
+        "name": "Renji Abarai",
+        "image": "/bleach/characters/Ep363RenjiCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 78,
+        "name": "Shinji Hirako",
+        "image": "/bleach/characters/Ep366ShinjiCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 79,
+        "name": "Robert Accutrone",
+        "image": "/bleach/characters/Ep370RobertCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 80,
+        "name": "Driscoll Berci",
+        "image": "/bleach/characters/Ep371DriscollCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 81,
+        "name": "Loyd Lloyd",
+        "image": "/bleach/characters/Ep371LoydCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 82,
+        "name": "Mask De Masculine",
+        "image": "/bleach/characters/Ep371MaskCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 83,
+        "name": "Kirio Hikifune",
+        "image": "/bleach/characters/Ep374HikifuneCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 84,
+        "name": "Ichibē Hyōsube",
+        "image": "/bleach/characters/Ep374IchibeiCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 85,
+        "name": "Tenjirō Kirinji",
+        "image": "/bleach/characters/Ep374KirinjiCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 86,
+        "name": "Senjumaru Shutara",
+        "image": "/bleach/characters/Ep374SenjumaruCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 87,
+        "name": "Shunsui Kyōraku",
+        "image": "/bleach/characters/Ep375ShunsuiCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 88,
+        "name": "Kinpika Kiganjō",
+        "image": "/bleach/characters/Ep376KiganjoCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 89,
+        "name": "Ōetsu Nimaiya",
+        "image": "/bleach/characters/Ep376NimaiyaCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 90,
+        "name": "Kanae Katagiri",
+        "image": "/bleach/characters/Ep377KatagiriCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 91,
+        "name": "Tōshirō Hitsugaya",
+        "image": "/bleach/characters/Ep379HitsugayaCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 92,
+        "name": "Askin Nakk Le Vaar",
+        "image": "/bleach/characters/Ep380AskinCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 93,
+        "name": "Bazz-B",
+        "image": "/bleach/characters/Ep380BazzBCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 94,
+        "name": "Bambietta Basterbine",
+        "image": "/bleach/characters/Ep383BambiettaCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 95,
+        "name": "Gremmy Thoumeaux",
+        "image": "/bleach/characters/Ep386GremmyCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 96,
+        "name": "Candice Catnipp",
+        "image": "/bleach/characters/Ep387CandiceCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 97,
+        "name": "Giselle Gewelle",
+        "image": "/bleach/characters/Ep387GiselleCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 98,
+        "name": "Liltotto Lamperd",
+        "image": "/bleach/characters/Ep387LiltottoCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 99,
+        "name": "Tetsuzaemon Iba",
+        "image": "/bleach/characters/Ep388IbaCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 100,
+        "name": "Meninas McAllon",
+        "image": "/bleach/characters/Ep389MeninasCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 101,
+        "name": "Ganju Shiba",
+        "image": "/bleach/characters/Ep390GanjuCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 102,
+        "name": "Gerard Valkyrie",
+        "image": "/bleach/characters/Ep390GerardCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 103,
+        "name": "Lille Barro",
+        "image": "/bleach/characters/Ep390LilleCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 104,
+        "name": "Grimmjow Jaegerjaquez",
+        "image": "/bleach/characters/Ep398GrimmjowCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 105,
+        "name": "Nelliel Tu Odelschwanck",
+        "image": "/bleach/characters/Ep398NellielCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 106,
+        "name": "Pernida Parnkgjas",
+        "image": "/bleach/characters/Ep402PernidaCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 107,
+        "name": "Don Kanonji",
+        "image": "/bleach/characters/Ep50DonCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 108,
+        "name": "Orihime Inoue",
+        "image": "/bleach/characters/Episode_347_Orihime.webp",
+        "used": false
+    },
+    {
+        "id": 109,
+        "name": "Mayuri Kurotsuchi",
+        "image": "/bleach/characters/NBFHMayuriCharaPic.webp",
+        "used": false
+    },
+    {
+        "id": 110,
+        "name": "Rangiku Matsumoto",
+        "image": "/bleach/characters/RangikuMatsumoto.jpg",
+        "used": false
+    },
+    {
+        "id": 111,
+        "name": "Rukia Kuchiki",
+        "image": "/bleach/characters/RukiaKuchiki.jpg",
+        "used": false
+    },
+    {
+        "id": 112,
+        "name": "Genryūsai Shigekuni Yamamoto",
+        "image": "/bleach/characters/YamamotoGenryusai.jpg",
+        "used": false
+    },
+    {
+        "id": 113,
+        "name": "Yoruichi Shihōin",
+        "image": "/bleach/characters/YoruichiShihoin.jpg",
+        "used": false
+    },
+    {
+        "id": 114,
+        "name": "Ichigo Kurosaki",
+        "image": "/bleach/characters/ichigokurosaki.jpg",
         "used": false
     }
 ]
